@@ -4,7 +4,7 @@ Sagispeak is the spelling and pronunciation scheme for Sagittal symbols.
 
 It was designed to be as universally accessible as possible — easily spoken and written by native speakers of the most widely-spoken languages. Care was taken to avoid any spellings or pronunciations that do not exist in these languages. Care was also taken to avoid spellings or pronunciations which are ambiguous in any of these languages.
 
-Each Sagittal symbol has at least one spelling and pronunciation. We can call either or both of these its "Sagispeak". So,  
+Each Sagittal symbol has at least one spelling and pronunciation. We can call either or both of these its "Sagispeak". So,
 
 > "The Sagispeak for![](../.gitbook/assets/jakai.png)is 'jakai'."
 
@@ -32,3 +32,4 @@ The vowels /aɪ/ and /aʊ/ were originally chosen for a language-independent mne
 ![on the left, /a&#x28A;/; on the right, /a&#x26A;/](../.gitbook/assets/ai-ao.jpg)
 
 Just testing again
+
