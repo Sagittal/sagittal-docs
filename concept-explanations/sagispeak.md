@@ -6,7 +6,7 @@ It was designed to be as universally accessible as possible — easily spoken an
 
 Each Sagittal symbol has at least one spelling and pronunciation. We can call either or both of these its "Sagispeak". So,
 
-> "The Sagispeak for
+> "The Sagispeak for (|\ is 
 
 ### Vowels
 
