@@ -17,7 +17,7 @@ If you are looking for the Sagittal notation which most closely resembles other 
 {% page-ref page="notation-how-to-guides/prime-factor.md" %}
 
 {% hint style="info" %}
-When possible, you should use a standard notation. 
+**When possible, you should use a standard notation.** 
 
 * Lean on their carefully considered design. 
 * Leverage conventions of  the microtonal community.
