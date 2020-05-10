@@ -1,14 +1,10 @@
----
-description: >-
-  If you want to learn more about the Sagittal microtonal notation system, you
-  have come to the right place!
----
-
 # Welcome to the Sagittal Documentation Site
 
-### Still unsure about using Sagittal? 
+If you want to learn more about the Sagittal microtonal notation system, you have come to the right place!
 
-Get acquainted here.
+![](.gitbook/assets/fig6.gif)
+
+### Still unsure about using Sagittal? Get acquainted here.
 
 {% page-ref page="why-sagittal.md" %}
 
