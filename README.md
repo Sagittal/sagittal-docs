@@ -4,7 +4,7 @@ description: >-
   have come to the right place!
 ---
 
-# Welcome to Sagittal
+# Welcome to the Sagittal Documentation Site
 
 ### Still unsure about using Sagittal? 
 

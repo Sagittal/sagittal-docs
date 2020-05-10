@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Sagittal](README.md)
+* [Welcome to the Sagittal Documentation Site](README.md)
 * [Why Sagittal](why-sagittal.md)
 * [Quick-Start Guide](quick-start-guide.md)
 * [Slow-Start Guide](slow-start-guide.md)
