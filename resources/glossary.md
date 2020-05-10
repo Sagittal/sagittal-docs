@@ -2,6 +2,8 @@
 
 ### accent
 
+A type of [diacritic](glossary.md#diacritic), and thus a [symbol element](glossary.md#symbol-element).
+
 ### apotome
 
 ### apotome complement
@@ -10,11 +12,15 @@
 
 ### arc
 
-### Athenian symbol set
+A type of [flag](glossary.md#arc), and thus a [symbol element](glossary.md#symbol-element).
 
-The name of a symbol set. 
+### Athenian
+
+The name of the second [symbol set](glossary.md#symbol-set), and thus the first [extension](glossary.md#extension).
 
 ### barb
+
+A type of [flag](glossary.md#arc), and thus a [symbol element](glossary.md#symbol-element).
 
 ### capture zone
 
@@ -22,7 +28,18 @@ The name of a symbol set.
 
 ### comma
 
+The word comma has two meanings in Sagittal:
+
+1. It is the general term for any of the small pitch intervals which Sagittal symbols represent.
+2. It is also the specific term for one of the seven size classes of these pitch intervals \(the one exactly in the middle, with three on either side\).
+
+The seven size classes of commas represented by Sagittal symbols are, in order from smallest to largest: schismina, schisma, kleisma, comma, small diesis, medium diesis, and large diesis. Size is the only criterion for these classes. Each class boundary is defined by the square root of a meaningful 3-limit comma.
+
+The specific class that is called comma has a lower boundary of 11.730¢ and an upper boundary of 33.382¢.
+
 ### diacritic
+
+A type of [symbol element](glossary.md#symbol-element). Every 
 
 ### diesis
 
@@ -46,7 +63,7 @@ Sagittal is available in two flavors: [evo](glossary.md#evo) and [revo](glossary
 
 ### limma slope
 
-### Magrathean symbol set
+### Magrathean
 
 ### mina
 
@@ -60,7 +77,7 @@ See: [prime exponent vector](glossary.md#prime-exponent-vector). Named for micro
 
 ### native-fifth notation
 
-### Olympian symbol set
+### Olympian
 
 ### polysagittal
 
@@ -104,19 +121,31 @@ One of the
 
 ### shaft
 
+A type of [symbol element](glossary.md#symbol-element).
+
 ### Spartan symbol set
 
 ### subset notation
 
 ### symbol
 
+### symbol element
+
+Each Sagittal symbol is built out of at least two symbol elements. Three types of symbol elements exist: [shafts](glossary.md#shaft), [flags](glossary.md#flag), and [diacritics](glossary.md#diacritic). 
+
+Every Sagittal symbol has at least one shaft, and at least one flag or diacritic. No Sagittal symbol has more than four shafts, three flags, or three diacritics.
+
 ### symbol set
+
+In total Sagittal provides ??? symbols, broken up into seven sets. One set is the base set, called the [Spartan](glossary.md#spartan-symbol-set) set.
 
 ### tina
 
-### Trojan symbol set
+### Trojan
 
 ### whole tone
+
+An interval the size of one [apotome](glossary.md#apotome) plus one [limma](glossary.md#limma). 
 
 
 
