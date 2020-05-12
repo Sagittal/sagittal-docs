@@ -31,11 +31,11 @@ A type of [flag](glossary.md#arc), and thus a [symbol element](glossary.md#symbo
 The word comma has two meanings in Sagittal:
 
 1. It is the general term for any of the small pitch intervals which Sagittal symbols represent.
-2. It is also the specific term for one of the seven size classes of these pitch intervals \(the one exactly in the middle, with three on either side\).
+2. It is also the specific term for one of the seven size categories of these pitch intervals \(the one exactly in the middle, with three on either side\).
 
-The seven size classes of commas represented by Sagittal symbols are, in order from smallest to largest: schismina, schisma, kleisma, comma, small diesis, medium diesis, and large diesis. Size is the only criterion for these classes. Each class boundary is defined by the square root of a meaningful 3-limit comma.
+The seven size categories of commas represented by Sagittal symbols are, in order from smallest to largest: schismina, schisma, kleisma, comma, small diesis, medium diesis, and large diesis. Size is the only criterion for these categories. Each boundary between categories is defined by the square root of a meaningful 3-limit comma.
 
-The specific class that is called comma has a lower boundary of 11.730¢ and an upper boundary of 33.382¢.
+The specific category that is called comma has a lower boundary of 11.730¢ and an upper boundary of 33.382¢.
 
 ### diacritic
 
