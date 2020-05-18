@@ -18,7 +18,7 @@
 * [Evo v. Revo](concept-explanations/evo-v.-revo.md)
 * [Symbol sets](concept-explanations/symbol-sets.md)
 * [Apotome Complements](concept-explanations/apotome-complements.md)
-* [Flag Arithmetic](concept-explanations/flag-arithmetic.md)
+* [Element Arithmetic](concept-explanations/element-arithmetic.md)
 * [The Periodic Table of EDOs](concept-explanations/the-periodic-table-of-edos.md)
 * [ASCII Symbol Representations](concept-explanations/ascii-symbol-representations.md)
 * [Sagispeak](concept-explanations/sagispeak.md)
