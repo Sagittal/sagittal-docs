@@ -44,5 +44,6 @@
 ## Resources
 
 * [Frequently Asked Questions](resources/faq.md)
+* [testing png glyphs](resources/testing-png-glyphs.md)
 * [Glossary](resources/glossary.md)
 
