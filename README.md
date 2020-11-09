@@ -1,6 +1,6 @@
 # Welcome to the Sagittal Documentation Site
 
-If you want to learn more about the Sagittal microtonal notation system, you have come to the right place!
+If you want to learn about the Sagittal microtonal notation system, you have come to the right place!
 
 ![](.gitbook/assets/fig6.gif)
 

@@ -12,7 +12,7 @@ Here are links to standard notations for the most popular tunings:
 
 {% page-ref page="notation-how-to-guides/12-relative-trojan.md" %}
 
-If you are looking for the Sagittal notation which most closely resembles other popular microtonal notations such as EHEJIPN and Johnston, you are looking for Prime Factor notation:
+**If you are looking for the Sagittal notation which most closely resembles other popular microtonal notations such as EHEJIPN and Johnston, you are looking for Prime Factor notation**:
 
 {% page-ref page="notation-how-to-guides/prime-factor.md" %}
 
