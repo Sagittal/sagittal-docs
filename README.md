@@ -18,7 +18,7 @@ If you're here to understand Sagittal on a deeper level, try this instead:
 
 {% page-ref page="slow-start-guide.md" %}
 
-
+\(testing sync post-repo-rename\)
 
 
 
