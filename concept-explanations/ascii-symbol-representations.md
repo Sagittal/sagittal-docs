@@ -1,2 +1,0 @@
-# ASCII Symbol Representations
-

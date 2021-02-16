@@ -20,7 +20,7 @@
 * [Apotome Complements](concept-explanations/apotome-complements.md)
 * [Element Arithmetic](concept-explanations/element-arithmetic.md)
 * [The Periodic Table of EDOs](concept-explanations/the-periodic-table-of-edos.md)
-* [ASCII Symbol Representations](concept-explanations/ascii-symbol-representations.md)
+* [Sagitype](concept-explanations/sagitype.md)
 * [Sagispeak](concept-explanations/sagispeak.md)
 * [Comma sizes](concept-explanations/comma-sizes.md)
 * [Sagittal-compatible symbols](concept-explanations/sagittal-compatible-symbols.md)
