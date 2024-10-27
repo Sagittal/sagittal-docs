@@ -107,7 +107,7 @@ See [Evo](glossary.md#evo).
 
 ### monzo
 
-See: [prime exponent vector](glossary.md#prime-exponent-vector). Named for microtonalist [Joseph Monzo](http://www.tonalsoft.com/enc/m/monzo-writings.aspx).
+See: [prime count vector](glossary.md#prime-count-vector). Named for microtonalist [Joseph Monzo](http://www.tonalsoft.com/enc/m/monzo-writings.aspx).
 
 ### native-fifth notation
 
@@ -125,7 +125,7 @@ One of the notational letter names, such as the standard set of 7 \(A, B, C, D, 
 
 ### primary comma
 
-### prime exponent vector
+### prime count vector
 
 Also known as a _harmonic space coordinate_, a prime interval vector expresses a rational number in a form which makes it immediately clear how many of each prime number it is composed of.
 
