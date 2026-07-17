@@ -59,7 +59,7 @@ A legend typically states the sizes of the defining intervals, using a **D-to-F 
 * the **limma** (EF — preferred over BC, since EF is visually distinct and avoids the German convention where B means our B♭);
 * the **whole tone** (CD).
 
-For an EDO, the legend also lists the **per-step accidentals**, exactly as on the Periodic Table — for example, in 72-EDO, `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> = 1 step, `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line"> = 2 steps, `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> = 3 steps.
+For an EDO, the legend also lists the **per-step accidentals**, exactly as on the Periodic Table — for example, in 72-EDO, `/|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.png" alt="/|" data-size="line"></picture> = 1 step, `|)` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal7CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.png" alt="|)" data-size="line"></picture> = 2 steps, `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/|\" data-size="line"></picture> = 3 steps.
 
 Two typographic conventions:
 

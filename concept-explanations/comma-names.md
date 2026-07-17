@@ -24,9 +24,9 @@ The ratio in a comma name is **directed** — it keeps its numerator and denomin
 
 The cleanest way to learn this is straight from the **harmonic series**, with no mention of commas at all. Harmonics are real and otonal chords are common, while subharmonics are rare, so you learn a **symbol direction for each prime harmonic**:
 
-* C to E, with the E altered by `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> (pao, a *downward* symbol), gives the just major third **4:5**.
+* C to E, with the E altered by `\!` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.png" alt="\!" data-size="line"></picture> (pao, a *downward* symbol), gives the just major third **4:5**.
 * C to B, with the B altered downward, gives **4:7**.
-* C to F, with the F altered by `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> (pakai, an *upward* symbol), gives **8:11**.
+* C to F, with the F altered by `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/|\" data-size="line"></picture> (pakai, an *upward* symbol), gives **8:11**.
 
 So you simply learn that **primes 5 and 7 use a downward symbol, while prime 11 uses an upward symbol** — because the 5th and 7th harmonics sit *below* their nearest Pythagorean note, and the 11th sits *above*. No commas required.
 
@@ -40,7 +40,7 @@ Written as ratios oriented for a chord whose root is the lowest and Pythagorean,
 
 Keeping the "1" in `1/5C` — rather than dropping it to write "5C" for the upward comma — may look fussy, but it makes **flag arithmetic** read naturally right in the names. When you combine symbols, their left and right flags add or cancel, and the directed names track it:
 
-> The 5-comma symbol `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> (pao) plus the 11-diesis symbol `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> (pakai) equals the 55-comma symbol `|\` <img src="../.gitbook/assets/glyphs/accSagittal55CommaUp.svg" alt="|\" data-size="line"> (kai) — because the downward and upward **left barbs cancel**, leaving the right barb — and indeed 5 × 11 = 55.
+> The 5-comma symbol `\!` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.png" alt="\!" data-size="line"></picture> (pao) plus the 11-diesis symbol `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/|\" data-size="line"></picture> (pakai) equals the 55-comma symbol `|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal55CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal55CommaUp.png" alt="|\" data-size="line"></picture> (kai) — because the downward and upward **left barbs cancel**, leaving the right barb — and indeed 5 × 11 = 55.
 
 You "can't unsee the canceling of the barbs" once you notice it. Directed names are what let the arithmetic of the *ratios* mirror the arithmetic of the *symbols*.
 

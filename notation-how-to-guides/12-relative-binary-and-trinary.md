@@ -10,11 +10,11 @@ The Binary notation divides the 12-EDO semitone by successive **halves**. Each s
 
 | Sagittal | Offset (¢) | EDO step of… |
 |---|---|---|
-| `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/&#124;\" data-size="line"> | 50 | 24-EDO |
-| `|~` <img src="../.gitbook/assets/glyphs/accSagittal23CommaUp.svg" alt="&#124;~" data-size="line"> | 25 | 48-EDO |
-| `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/&#124;" data-size="line"> | 12.5 | 96-EDO |
-| `|(` <img src="../.gitbook/assets/glyphs/accSagittal5v7KleismaUp.svg" alt="&#124;(" data-size="line"> | 6.25 | 192-EDO |
-| `)|` <img src="../.gitbook/assets/glyphs/accSagittal19SchismaUp.svg" alt=")&#124;" data-size="line"> | 3.125 | 384-EDO |
+| `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/&#124;\" data-size="line"></picture> | 50 | 24-EDO |
+| `|~` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal23CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal23CommaUp.png" alt="&#124;~" data-size="line"></picture> | 25 | 48-EDO |
+| `/|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.png" alt="/&#124;" data-size="line"></picture> | 12.5 | 96-EDO |
+| `|(` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5v7KleismaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5v7KleismaUp.png" alt="&#124;(" data-size="line"></picture> | 6.25 | 192-EDO |
+| `)|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal19SchismaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal19SchismaUp.png" alt=")&#124;" data-size="line"></picture> | 3.125 | 384-EDO |
 
 <!-- above these in the ladder sit the whole and half semitone: /||\ = 100¢ (12-EDO) and /|\ = 50¢ -->
 

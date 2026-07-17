@@ -18,10 +18,10 @@ The cleanest way to learn the symbols is straight from the harmonic series, with
 
 | Harmonic | Sagittal | Sagispeak | Direction | Comma |
 |---|---|---|---|---|
-| 5 | `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> | pao | down | 5-comma (80:81) |
-| 7 | `!)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaDown.svg" alt="!)" data-size="line"> | tao | down | 7-comma (63:64) |
-| 11 | `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/&#124;\" data-size="line"> | pakai | up | 11-comma (32:33) |
-| 13 | `(!/` <img src="../.gitbook/assets/glyphs/accSagittal35LargeDiesisDown.svg" alt="(!/" data-size="line"> | dao | down | 13-comma (26:27) |
+| 5 | `\!` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.png" alt="\!" data-size="line"></picture> | pao | down | 5-comma (80:81) |
+| 7 | `!)` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal7CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal7CommaDown.png" alt="!)" data-size="line"></picture> | tao | down | 7-comma (63:64) |
+| 11 | `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/&#124;\" data-size="line"></picture> | pakai | up | 11-comma (32:33) |
+| 13 | `(!/` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal35LargeDiesisDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal35LargeDiesisDown.png" alt="(!/" data-size="line"></picture> | dao | down | 13-comma (26:27) |
 
 Three of the first four primes (5, 7, 13) sit just *below* their nearest Pythagorean note, so they take a downward symbol; only the 11th harmonic sits *above*, so it takes an upward one. Learn C-to-E lowered by `\!` is the just major third 4:5, C-to-F raised by `/|\` is 8:11, and the rest follows.
 

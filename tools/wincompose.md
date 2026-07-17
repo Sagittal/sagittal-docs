@@ -8,10 +8,10 @@ The Sagittal sequences mirror the [Sagitype](../concept-explanations/sagitype.md
 
 | Symbol | Sagispeak | Sequence (after the compose key) |
 |---|---|---|
-| `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/&#124;" data-size="line"> | pai | `/` `|` |
-| `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> | pao | `\` `!` |
-| `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="&#124;)" data-size="line"> | tai | `|` `)` |
-| `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/&#124;\" data-size="line"> | pakai | `/` `|` `\` |
+| `/|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.png" alt="/&#124;" data-size="line"></picture> | pai | `/` `|` |
+| `\!` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.png" alt="\!" data-size="line"></picture> | pao | `\` `!` |
+| `|)` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal7CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.png" alt="&#124;)" data-size="line"></picture> | tai | `|` `)` |
+| `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/&#124;\" data-size="line"></picture> | pakai | `/` `|` `\` |
 
 Because the sequence *is* the Sagitype, you do not have to memorize anything new — if you can type a symbol's ASCII, you can compose its glyph.
 

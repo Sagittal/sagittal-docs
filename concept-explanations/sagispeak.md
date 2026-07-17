@@ -35,12 +35,12 @@ The consonants before the vowel say *what kind* of up or down alteration it is �
 
 A few anchors:
 
-* **p** = left barb — from the Greek *pente* ("five"), because the left barb is the 5-comma. So `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> is **pao** and `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> is **pai**.
+* **p** = left barb — from the Greek *pente* ("five"), because the left barb is the 5-comma. So `\!` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.png" alt="\!" data-size="line"></picture> is **pao** and `/|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.png" alt="/|" data-size="line"></picture> is **pai**.
 * **k** = right barb — chosen for its appearance.
 * **n** = right arc — `|(` is **nai**, `!(` is **nao**.
 * **v** is reserved for the 11-diesis down `\!/`, which is why the 5-comma down doesn't use it.
 
-Put a left-barb and a right-barb together and you get the full arrow `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line">, spoken **pakai** (p + k) — "or possibly even 'kapow!'"
+Put a left-barb and a right-barb together and you get the full arrow `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/|\" data-size="line"></picture>, spoken **pakai** (p + k) — "or possibly even 'kapow!'"
 
 ## The four spelling rules
 

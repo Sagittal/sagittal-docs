@@ -12,8 +12,8 @@ Accents represent smaller alterations than flags, so, by the **smallest-to-the-l
 
 | Introduced by | Accent | Nickname | Rough size |
 |---|---|---|---|
-| **Herculean** | acute `'` <img src="../.gitbook/assets/glyphs/accSagittalAcute.svg" alt="'" data-size="line"> / grave `.` <img src="../.gitbook/assets/glyphs/accSagittalGrave.svg" alt="." data-size="line"> | "tick" | schisma, ~2¢ |
-| **Olympian** | breve `` ` `` <img src="../.gitbook/assets/glyphs/accSagittal1MinaUp.svg" alt="&#96;" data-size="line"> `,` <img src="../.gitbook/assets/glyphs/accSagittal1MinaDown.svg" alt="," data-size="line"> (a "bird" is two) | "wing" | mina, ~0.5¢ |
+| **Herculean** | acute `'` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittalAcute.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittalAcute.png" alt="'" data-size="line"></picture> / grave `.` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittalGrave.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittalGrave.png" alt="." data-size="line"></picture> | "tick" | schisma, ~2¢ |
+| **Olympian** | breve `` ` `` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal1MinaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal1MinaUp.png" alt="&#96;" data-size="line"></picture> `,` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal1MinaDown.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal1MinaDown.png" alt="," data-size="line"></picture> (a "bird" is two) | "wing" | mina, ~0.5¢ |
 | **Magrathean** | fractional-tina dots | — | tina, ~0.14¢ |
 
 The apotome divides into **233 minas** and **809 tinas**, which sets the scale of the finer two tiers: a mina is about 0.49¢, a tina about 0.14¢. The fractional-tina dot is deliberately vague in size — Sagittal never promises more resolution than a tina.

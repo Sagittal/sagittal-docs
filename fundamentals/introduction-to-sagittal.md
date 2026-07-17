@@ -12,9 +12,9 @@ It is spelled with one "g" and two "t's". If you ever forget, remember: **Sagitt
 
 Here are the three most common symbols:
 
-* `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> — looks like the left half of an arrow.
-* `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line"> — looks like the right half, except curved.
-* `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> — looks like an ordinary, everyday arrow.
+* `/|` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal5CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.png" alt="/|" data-size="line"></picture> — looks like the left half of an arrow.
+* `|)` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal7CommaUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.png" alt="|)" data-size="line"></picture> — looks like the right half, except curved.
+* `/|\` <picture><source srcset="../.gitbook/assets/glyphs-dark/accSagittal11MediumDiesisUp.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.png" alt="/|\" data-size="line"></picture> — looks like an ordinary, everyday arrow.
 
 For short, Sagittal symbols can simply be called **sagittals**, with a lowercase "s". Each sagittal, like a specialized sharp or flat, indicates a slight alteration in pitch — either up or down.
 
