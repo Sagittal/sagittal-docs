@@ -1,26 +1,39 @@
 # Slow-Start Guide
 
-Have some time to dig in? Here's one suggested path forward:
+Have some time to dig in? These pages are organized as a learning ladder, in four units, followed by history, tools, and reference material. Here is one suggested path forward.
 
-### Step 1. Concepts
+### Step 1. Fundamentals
 
-Start by reading through the pages here on Sagittal concepts. They are not cumulative, so you can pick them up in any order you please.
+Start with the **Fundamentals** unit. It is short — just two pages — and worth reading once, straight through, because everything else builds on it. You will learn what sagittals are and how conventional notation is really a chain of fifths in disguise.
 
-### Step 2. Notations
+{% page-ref page="fundamentals/introduction-to-sagittal.md" %}
 
-Next, familiarize yourself with the standard notations for popular tunings. Understanding how Sagittal concepts come together in different ways depending on the tuning will be a good test of your new knowledge.
+### Step 2. Standard Notations
 
-### Step 3. History
+Next, familiarize yourself with the standard notations for the tunings you care about. These pages do **not** strongly depend on each other, so feel free to skip around — read only the ones you need, in any order. Understanding how the same Sagittal symbols come together differently depending on the tuning is a good test of your new knowledge.
 
-The main site for Sagittal is a treasure trove of fun and historical documents. The original Xenharmonikôn article in particular is dense with insights about how and why the Sagittal notation was developed.
+Begin with **Choosing a Notation** to see the lay of the land.
 
-### Step 4. Practice
+{% page-ref page="notation-how-to-guides/choosing-a-notation.md" %}
 
-Eventually we hope to have virtual flashcards for symbols, commas, apotome complements, flavor equivalents, Sagispeak spellings, and more.
+### Step 3. Intermediate Concepts
 
-### Step 5. Community
+The **Intermediate Concepts** unit is where you gain real competency: the anatomy of a symbol, how flags combine, apotome complements, the Evo and Revo flavors, and how to speak and type Sagittal. Read these once you want to understand *why* the notations look the way they do.
 
-Join the forum for discussion and inspiration. We want to hear your ideas about Sagittal.
+### Step 4. Advanced Concepts
 
+The **Advanced Concepts** unit confers expertise. Here you will find how EDOs map harmonic space, the full comma-naming system, and the size categories. Most people never need all of this — but it is here when you want it.
 
+### Step 5. History
 
+The story of Sagittal is a treasure trove of fun and insight. The original Xenharmonikôn article in particular is dense with rationale for how and why the notation was developed.
+
+{% page-ref page="history/the-origin-of-sagittal.md" %}
+
+### Step 6. Practice
+
+Eventually we hope to have virtual flashcards for symbols, commas, apotome complements, flavor equivalents, Sagispeak spellings, and more. Until then, the best practice is to notate a scale in your favorite tuning by hand and check it against the standard.
+
+### Step 7. Community
+
+Join the [forum](http://forum.sagittal.org) for discussion and inspiration. We want to hear your ideas about Sagittal.

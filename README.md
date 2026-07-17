@@ -1,8 +1,10 @@
-# Welcome to the Sagittal Documentation Site
+# Welcome
 
-If you want to learn about the Sagittal microtonal notation system, you have come to the right place!
+If you want to learn about the Sagittal microtonal notation system, you have come to the right place.
 
 ![](.gitbook/assets/fig6.gif)
+
+Sagittal is a notation **system** that makes possible many different microtonal **notations**. Whatever tuning you write in — a just intonation, an equal division of the octave, or something stranger — there is a Sagittal notation for it, built from the same shared set of arrow-shaped symbols.
 
 ### Still unsure about using Sagittal? Get acquainted here.
 
@@ -10,15 +12,20 @@ If you want to learn about the Sagittal microtonal notation system, you have com
 
 ## Guides
 
-In a hurry? Get what you need here and be on your way!
+In a hurry? Get what you need and be on your way.
 
 {% page-ref page="quick-start-guide.md" %}
 
-If you're here to understand Sagittal on a deeper level, try this instead:
+Here to understand Sagittal on a deeper level? Take the scenic route instead.
 
 {% page-ref page="slow-start-guide.md" %}
 
-\(testing sync post-repo-rename\)
+## New to microtonal notation?
 
+If you have never thought about how conventional sharps and flats actually work, start with the Fundamentals unit. It is short, and everything else builds on it.
 
+{% page-ref page="fundamentals/introduction-to-sagittal.md" %}
 
+{% hint style="info" %}
+Discussion about Sagittal happens on the [Sagittal Forum](http://forum.sagittal.org). If these pages don't answer your question, you're sure to find an answer there, or someone who can help.
+{% endhint %}
