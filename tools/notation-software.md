@@ -81,6 +81,8 @@ Jacob Barton is a longtime member of the Sagittal community — he first taught 
 Sagibelius predates Sibelius's broader SMuFL adoption, which is why it comes with its own font rather than relying on Bravura.
 {% endhint %}
 
+One known limit: Sibelius's key signatures are hard-coded, so a [Sagittal key signature](../resources/engraving-and-score-setup.md) (say, marking your JI scale's 80/81s in the signature) can't be built — sagittals go on the notes only.
+
 <!-- GAP: the Sagibelius workflow (which sagittals, how the plugins are invoked) was not ingested beyond the download and authorship; expand from the package's own documentation. -->
 
 ## Finale
