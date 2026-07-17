@@ -33,7 +33,7 @@ Typical error under 12-Relative is only about **±2¢** — the amount the 12-ED
 
 ## Exact for the 12N EDOs
 
-Here is a satisfying bonus. Every EDO that is a **multiple of 12** — 24, 36, 48, 60, 72, and so on — reconciles perfectly with the 12-Relative capture zones. Line up such an EDO's steps with the Trojan symbols and each step gets exactly the symbol it would receive as an EDO in its own right. So the 12-Relative notation *is* the standard notation for the 12N EDOs.
+Here is a satisfying bonus. Every EDO that is a **multiple of 12**, up through 192 — 24, 36, 48, 60, 72, and on up — reconciles perfectly with the 12-Relative capture zones. Line up such an EDO's steps with the Trojan symbols and each step gets exactly the symbol it would receive as an EDO in its own right. So the 12-Relative notation *is* the standard notation for the 12N EDOs.
 
 This holds as long as the EDO shares 12-EDO's exact 700¢ fifth. That stays true remarkably far up — it is not until somewhere around 300-EDO that the first 12N EDO appears whose best fifth is no longer 700¢. Which only goes to show how good 12-EDO's fifth approximation really is.
 

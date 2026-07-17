@@ -115,6 +115,6 @@ Sagittal notation was created by **Dave Keenan and George Secor** in the early 2
 
 {% page-ref page="../history/the-origin-of-sagittal.md" %}
 
-Nowadays, discussion about Sagittal happens on the [Sagittal Forum](http://forum.sagittal.org). Next in the Fundamentals unit: the chain of fifths, the foundation everything else is built on.
+Nowadays, discussion about Sagittal happens on the [Sagittal Forum](http://forum.sagittal.org). And when you're ready to dig into the foundation everything else is built on, head for the chain of fifths.
 
 {% page-ref page="the-chain-of-fifths.md" %}

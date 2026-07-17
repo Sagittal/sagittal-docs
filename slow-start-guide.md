@@ -1,6 +1,6 @@
 # Slow-Start Guide
 
-Have some time to dig in? These pages are organized as a learning ladder, in four units, followed by tools and reference material. Here is one suggested path forward.
+Have some time to dig in? These pages are organized as a learning ladder — Basic, Intermediate, and Advanced Concepts, with the Standard Notations in between — followed by tools, reference material, and a glossary. Here is one suggested path forward.
 
 ### Step 1. Basic Concepts
 
@@ -26,7 +26,7 @@ The **Advanced Concepts** unit confers expertise. Here you will find how EDOs ma
 
 ### Step 5. History
 
-The story of Sagittal is a treasure trove of fun and insight. The original Xenharmonikôn article in particular is dense with rationale for how and why the notation was developed.
+The story of Sagittal — kept in the Reference section — is a treasure trove of fun and insight. The original Xenharmonikôn article in particular is dense with rationale for how and why the notation was developed.
 
 {% page-ref page="history/the-origin-of-sagittal.md" %}
 
