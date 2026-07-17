@@ -22,8 +22,23 @@ Each set contains all the ones before it and adds more resolution. Their names c
 "EDA" means **equal divisions of the apotome**: each set resolves the apotome into that many equal steps. Spartan's 13-EDA is already enough for the most popular EDOs and an extensive JI lattice.
 
 {% hint style="info" %}
+**Athenian ≈ 224-EDO.** Its 21-EDA resolution matches what the *Xenharmonikôn* article calls medium-precision JI, "comparable to 224-EDO" (the division in which the 5-schisma vanishes). One subtlety the article flags: at Athenian's sixth single-shaft position, the JI notation prefers the **11/7-comma** `(|`, which notates 11/7 and 14/11 exactly — but substitute the **55-comma** `|\` there and you get the notation for **224-EDO** itself. The two commas differ by under 1.4¢, so either is valid; it is a small illustration of choosing a good notation among several.
+{% endhint %}
+
+{% hint style="info" %}
 The Spartan set covers roughly **90% of what most people ever want.** The symbols in it appear in every other set. So learn Spartan and you have a real, working notation in hand — everything above it is there for when you specifically need more.
 {% endhint %}
+
+## What Spartan covers, and what nests inside it
+
+The published article is specific about Spartan's reach. Its eight single-shaft pairs (seven of them built from barbs and arcs alone) notate:
+
+* an extensive **5-limit matrix** — every ratio from 5⁴ down to 5⁻⁴, exactly;
+* **all the 9-limit consonances**, exactly;
+* **16 harmonics and subharmonics** in JI (the 13th approximated); and
+* **over 40 EDOs**, including most of the popular ones below 100 tones per octave.
+
+Nested inside Spartan is a still smaller **starter set** — just the **3 single-shaft pairs** of the 72-EDO notation (`/|`, `|)`, `/|\`). The article sums up the whole nesting nicely: the most popular tunings need only those 3 pairs, many others need only Spartan's 8, and "practically everything else" needs only Athenian's 5 more — even if a first glance at the full array "might appear as bewildering as Chinese characters (or about what one might expect a 28th-century microtonal notation to look like)."
 
 The Magrathean name is the giveaway joke: in *The Hitchhiker's Guide to the Galaxy*, the Magratheans are god-like planet-builders, and the one you meet is a bumbling old man. George and Dave thought any precision past Olympian was frankly farcical — that people only *believed* they needed it.
 

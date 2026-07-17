@@ -14,6 +14,14 @@ Turn that around and you get the defining relationship:
 
 The double barb (32:33) plus the double arc (704:729) comes out to exactly the apotome (2048:2187) — a sharp. So the double barb and the double arc are **apotome complements** of each other. Every sagittal has one.
 
+Writing the sharp in sagitype as the double-shaft double-barb `/||\`, the article gives two worked complement pairs:
+
+> `/|\` + `(|)` = `/||\`  (11M diesis + 11L diesis = apotome)
+>
+> `/|)` + `(|\` = `/||\`  (35M diesis + 35L diesis = apotome)
+
+Both pairs sum to a sharp, so in each the two single-shaft symbols are apotome complements. <!-- TODO: symbol images -->
+
 {% hint style="info" %}
 This is the engine behind the [Evo and Revo flavors](evo-v.-revo.md). In Evo you might write a sharp and then a downward sagittal to walk back; in Revo you write that pitch's single apotome complement instead. Complements are what let one Revo symbol replace a sharp-plus-sagittal pair.
 {% endhint %}
@@ -28,6 +36,6 @@ This mirror is also how [comma size categories](comma-sizes.md) resolve the "two
 
 In [Evo](evo-v.-revo.md), you rarely think about complements — the sharp is right there on the page. In **Revo**, though, you need to know each symbol's complement cold, because there is **no simple rule** relating a symbol's flags to its complement's flags. A double left barb becomes a double scroll; a right arc stays a right arc; a left barb becomes a right barb — no pattern you can read off the shapes. Revo users simply memorize the equivalences (it *is* possible to explain precisely why each complement is what it is, but that waits for the advanced material).
 
-<!-- GAP: the canonical complement tables are figures in the Xenharmonikôn article — the Spartan complements at sagittal.pdf p.7 fig.4, the full set at p.24 fig.13 — which have not been ingested. The generated symbol dictionary will list each symbol's complement from sheet/07. -->
+<!-- TODO: symbol image — the article's complement charts (Fig 4 Spartan set, p.7; Fig 13 full 31-symbol set, p.24) render from the font during the glyph pass. The generated symbol dictionary already lists each symbol's complement from sheet/07. -->
 
 {% page-ref page="../reference/symbol-dictionary.md" %}

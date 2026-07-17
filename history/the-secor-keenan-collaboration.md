@@ -12,6 +12,12 @@ That is characteristically modest, but it names a real division of labor. George
 
 Many others contributed along the way, especially in the early Yahoo tuning-group years, and George and Dave were always careful to acknowledge them. But the sustained, obsessive work of design was theirs.
 
+## Engineered evolution
+
+The pair described their method as **engineered evolution**. Rather than let the notation evolve slowly through generations of real-world use — which, they reckoned, "would probably require many centuries" — they deliberately took it through at least **half a dozen generations** of design in a few years, revising both which symbols belonged in the Sagittal superset and the exact definitions of those symbols, so that it would be unlikely to need changing later and upset anyone who had already adopted it.
+
+The public record of that work is the *Xenharmonikôn* article, **"Sagittal: A Microtonal Notation System,"** published in **Volume 18 (2006)** and kept lightly updated ever since — most recently on **28 March 2025**. Its acknowledgements thank dozens of contributors from the tuning-group years; the updated paper now lists **Douglas Blumeyer** among them — thanked, as it turned out, in the very document he would later help steward.
+
 ## The succession
 
 George Secor died in March 2020. By an accident of timing, that was almost exactly when Douglas Blumeyer first wrote to Dave — obsessed with Sagittal, wanting to build a notation calculator, and eager to understand every decision behind the system.

@@ -143,7 +143,7 @@ The fifth [symbol set](glossary.md#symbol-set), reaching [mina](glossary.md#mina
 
 ### precision level
 
-How finely a notation distinguishes pitches, corresponding to which [symbol set](glossary.md#symbol-set) is used. The four JI precision levels are **Medium**, **High**, **Ultra**, and **Extreme**, corresponding to Spartan, Athenian, and on up to Olympian. A symbol keeps the same default value at every level (`/|` is always 81:80).
+How finely a notation distinguishes pitches, corresponding to which [symbol set](glossary.md#symbol-set) is used. The four JI precision levels are **Medium**, **High**, **Ultra**, and **Extreme**, corresponding to Athenian, Promethean, Herculean, and Olympian. (The published *Xenharmonikôn* article uses a coarser three-level scheme — Medium, High, Extreme — with Medium likewise being Athenian; see the [JI precision levels](../reference/ji-precision-levels.md) table.) A symbol keeps the same default value at every level (`/|` is always 81:80).
 
 ### primary comma
 

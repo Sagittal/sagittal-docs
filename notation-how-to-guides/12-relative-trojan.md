@@ -4,11 +4,17 @@ Every other Sagittal notation reads the staff relative to a chain of near-just P
 
 That one change has a tidy consequence. In 12-EDO, seven fifths octave-reduced come to exactly 100¢, so **the apotome — the sharp or flat — becomes exactly 100¢**. The sagittals then land at convenient, familiar-feeling sizes measured against that round number, which is why this notation is also called **Trojan** notation (it uses a special, slightly askew symbol set of that name).
 
+{% hint style="info" %}
+**Why "Trojan"?** The name continues Sagittal's ancient-city-states theme (Spartan, Athenian) with a wink. Musicians who work in subdivisions of 12-EDO often have no wish to deal with ratios — so Trojan is a **gift-horse** notation: it is quietly built on the rational numbers of JI, but you need not fear the ratios will "escape and overrun the city." They will merely offer a JI-interpreting service, should you ever want one.
+{% endhint %}
+
 ## Capture zones to a smaller half-apotome
 
 Like the [JI notation](just-intonation.md), 12-Relative works by capture zones extending a little past a half-apotome. But because the apotome here is 100¢ instead of the Pythagorean 113.7¢, the half-apotome is smaller too — so the zones stop around **57¢** rather than up near 70¢.
 
 Reading a Trojan symbol is really reading a cent offset from 12-EDO. `/|` is +16.7¢, `/|\` is exactly +50¢ (a clean quarter-tone), and so on up to the half-apotome.
+
+That +16.7¢ is the left barb's size in **72-EDO**. Across the other 12N EDOs the same symbol serves for slightly different fractions of a tone — the article notes the 5-comma is ≈16.7¢ in 72-EDO, ≈14.3¢ in 84-EDO, and 12.5¢ in 96-EDO (i.e. 1/12, 1/14, and 1/16 of a tone). Outside the 12N family the 5-comma can grow much larger — about **54.5¢ in 22-EDO** — a reminder that a sagittal tracks a harmonic relationship, not a fixed melodic distance.
 
 <!-- GAP: the full Trojan capture-zone table (sheet/11) belongs to the generated reference layer, which has no 12-Relative table stub yet; link it here once it exists. -->
 
@@ -32,7 +38,7 @@ Here is a satisfying bonus. Every EDO that is a **multiple of 12** — 24, 36, 4
 This holds as long as the EDO shares 12-EDO's exact 700¢ fifth. That stays true remarkably far up — it is not until somewhere around 300-EDO that the first 12N EDO appears whose best fifth is no longer 700¢. Which only goes to show how good 12-EDO's fifth approximation really is.
 
 {% hint style="info" %}
-The Trojan set sits **askew** to the nested Spartan → Athenian → Promethean hierarchy of the JI notation. If you only ever use 12-Relative notation, the symbols you learn will *skip* some Spartans while *including* some Prometheans — because the set is chosen to fit 12-EDO's grid, not JI's.
+The Trojan set sits **askew** to the nested Spartan → Athenian → Promethean hierarchy of the JI notation. If you only ever use 12-Relative notation, the symbols you learn will *skip* some Spartans while *including* some Prometheans — because the set is chosen to fit 12-EDO's grid, not JI's. Even so, the article points out that **most Trojan symbols are also in the Athenian set**, so the two overlap heavily.
 {% endhint %}
 
 For the resolution variants of this notation, continue to:

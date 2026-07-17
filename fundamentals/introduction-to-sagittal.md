@@ -4,7 +4,7 @@ Welcome to Sagittal, the universal system for pitch notation. This page is a bri
 
 ## The name
 
-The name "Sagittal" comes from **Sagittarius, the archer**, because each Sagittal symbol looks like some kind of arrow.
+The name "Sagittal" comes from the Latin *sagitta*, "arrow" — because each Sagittal symbol looks like some kind of arrow. George Secor took it from Ivor Darreg's phrase "sagittarian notation," and you can keep the friendlier image of **Sagittarius, the archer** in mind as a mnemonic. Just remember it is the *arrow*, not the archer, that gives Sagittal its name. (The [origin story](../history/the-origin-of-sagittal.md) has the full account.)
 
 It is spelled with one "g" and two "t's". If you ever forget, remember: **Sagittal is unforgettable.**
 
@@ -89,7 +89,7 @@ The sharp doesn't mean any *one* of its values. What it means is: anything suffi
 
 ## Who made it
 
-Sagittal notation was created by **Dave Keenan and George Secor** in the early 2000s, with significant input from members of the alternative-tuning communities then hosted on Yahoo Groups. It was formally introduced to the world in a 2006 article in the final volume of the historic journal *Xenharmonikôn*, which discusses and defends its design choices.
+Sagittal notation was created by **Dave Keenan and George Secor** in the early 2000s, with significant input from members of the alternative-tuning communities then hosted on Yahoo Groups. It was formally introduced to the world in **Volume 18 (2006)** of the historic journal *Xenharmonikôn*, in an article which discusses and defends its design choices.
 
 {% page-ref page="../history/the-origin-of-sagittal.md" %}
 

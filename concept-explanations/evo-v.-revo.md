@@ -17,6 +17,10 @@ We teach Evo first, because it leans on notation you already know. It is exactly
 
 Revo takes more up-front learning (a new set of multi-shaft symbols to absorb) but pays you back with a simpler page: one symbol per note, and never any tug-of-war between an up and a down.
 
+## Which flavor suits which player
+
+The *Xenharmonikôn* article ties the two flavors to two kinds of reader. Because Evo keeps the conventional sharps and flats you already know, it has the **gentler learning curve** — the authors expected it to let **wind and string players** master sight-reading more quickly, and to suit orchestral parts, where a single note rarely shares a staff position with another. Revo asks more up front (you must learn the apotome complements), but its strict **one symbol per note** removes any ambiguity about which symbol alters which note — so the authors expected **keyboard players**, once they had the symbols down, to read it more easily. Neither is "the" reader's flavor; the point is that each has a natural constituency.
+
 ## Revo is a substitution code for Evo
 
 Line the two flavors up, natural to sharp, and for most of the range they are **identical** — the same single-shaft sagittals. They part ways only at the top, where Evo writes a conventional sharp and Revo writes a multi-shaft symbol. So a Revo multi-shaft symbol is really just a **substitution code** for an Evo combination of a sharp with a single-shaft sagittal.

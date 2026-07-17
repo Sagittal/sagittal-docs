@@ -13,9 +13,27 @@ Sagittal’s [Standard JI notation](../notation-how-to-guides/just-intonation.md
 
 "Symbols" counts the distinct upward symbols appearing at that level in the source (cumulative — each level contains the coarser ones). The upward and downward halves each get this many, and every symbol has an [apotome complement](../concept-explanations/apotome-complements.md) for the far side of the apotome.
 
+## The published baseline: Medium, High, Extreme
+
+The table above is the current, finer-grained ladder. The **canonical published reference** — the 2006 *Xenharmonikôn* article — defines a coarser set of precision levels, and it remains the baseline every later refinement builds on. The article names three (p.25), with a low-precision option below them (fn.20):
+
+| Published level | Symbols used | Modern set it lands on |
+|---|---|---|
+| Low-precision (SpartanJI) | Spartan, mapped to a consistent EDO | Spartan |
+| **Medium** (Athenian) | 12 single-shaft pairs, no accents | Athenian |
+| **High** | in versions with or without **schisma** accents | Promethean (without) / Herculean (with) |
+| **Extreme** | **schisma + mina** accents | Olympian |
+
+Two things to notice when comparing the two schemes:
+
+- The article's **Medium = Athenian**, exactly as in the modern ladder; its resolution is "comparable to 224-EDO," the division in which the 5-schisma vanishes.
+- The word **High** does not line up between the two schemes. The article's High-precision comes "in versions with or without schisma accents," so it spans two modern levels at once: the un-accented **Promethean** (the modern *High*) and the schisma-accented **Herculean** (the modern *Ultra*). The modern ladder simply splits the article's single High band into those two named steps. The article's **Extreme** (schisma + mina accents) is the modern **Olympian**.
+
+For **low-precision SpartanJI**, the article's recipe (fn.20) is to map rational intervals onto a division of the octave that is consistent to the odd limit you need — e.g. **72-EDO for 11-limit JI** or **130-EDO for 15-limit JI** (130-EDO uses almost all of Spartan; 72-EDO uses the Spartan subset known as the "starter set").
+
 ## The Medium (Athenian) level
 
-The coarsest level is the Athenian set: **13 single-shaft symbols** (with their mirrored downward twins) span the first half-apotome; their apotome complements and conventional sharps/flats cover the rest. Primary commas below are from `sheet/03-primary-commas.csv`.
+The coarsest level is the Athenian set. The article counts **twelve single-shaft altering pairs** here (the table below has thirteen rows because the first, `|`/`!`, is the bare shaft — the unison 1u — which does not alter pitch). With their mirrored downward twins they span the first half-apotome; their apotome complements and conventional sharps/flats cover the rest. Primary commas below are from `sheet/03-primary-commas.csv`.
 
 | Up | Down | Primary comma | Size | ¢ | Sagispeak |
 |---|---|---|---|---|---|

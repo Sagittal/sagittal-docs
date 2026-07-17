@@ -22,9 +22,23 @@ Ben Johnston's notation assigns accidentals to raise or lower by specific ratios
 
 Helmholtz–Ellis Just Intonation (HEJI, once written "EHEJIPN") notates JI with one accidental per prime, extending the Helmholtz–Ellis tradition. Sagittal is itself, in a real sense, *an extended Helmholtz–Ellis notation* — and its [Prime Factor notation](../notation-how-to-guides/prime-factor.md) is the Sagittal that most closely resembles HEJI and Johnston: one sagittal per prime factor, combined freely. If you are coming from HEJI, Prime Factor Sagittal is the natural door in.
 
+One design difference is worth flagging. Systems that place one mark per prime — Bosanquet, Johnston, Rapoport, and Sabat and von Schweinitz's "Extended Helmholtz–Ellis JI Pitch Notation" — can end up stacking several microtonal symbols side by side on a single note. Sagittal's *preferred* JI notation was built to avoid exactly that clutter: following **Mildred Couper's** principle, it *merges* the shafts of several alterations into one symbol (up to a threshold), so a note carries a single sagittal where these systems might carry a row of them. (Prime Factor Sagittal deliberately trades that merging back for the one-mark-per-prime transparency HEJI users expect.)
+
 ## Stein–Zimmermann and the quartertone notations
 
 The familiar quartertone accidentals — Stein's semisharp, Zimmermann's reversed flats — are the ones Sagittal was consciously designed to improve upon (the *Gift of the Gods* story dramatizes exactly this choice). Sagittal does not discard them: the **Evo-SZ** sub-flavor keeps the Stein–Zimmermann half-sharps and half-flats where they are entrenched, substituting them for the corresponding sagittals in tempered contexts.
+
+## Sims's 72-EDO notation
+
+Ezra Sims devised a 72-EDO notation in the 1970s that many instrumentalists already read fluently. The *Xenharmonikôn* article is candid that Sagittal has no wish to compel those players to learn "yet another notation" — computer-generated parts can be translated between the two by software and printed in whichever a player prefers. The catch a Sims reader eventually meets is structural: a notation built for one tuning only carries you through that tuning, and the moment you play in another EDO you need *another* specialized notation. Ending that regress is Sagittal's whole reason for being.
+
+{% hint style="info" %}
+The **Sagittal-Wilson** set eases the specific Sims-to-Sagittal transition. Ervin Wilson modified Bosanquet's sloping comma-line by drawing a vertical stroke through the up version, turning it into a "plus" sign (and leaving the down version as a "minus"). Swapping the Wilson 5-comma pair into the 72-EDO set defuses the clash between Sagittal's 5-comma pair (which means 1°72) and Sims's visually-similar pair (which means 2°72). Because Sagittal and HEWM share the same 11-diesis arrow and a similar 7-comma symbol, the article notes it "would not be unreasonable to consider the Sagittal-Wilson symbol set as a dialect of HEWM notation."
+{% endhint %}
+
+## Reinhard's cents-above-the-note
+
+Johnny Reinhard's method writes 24-EDO notation with a signed number of cents above each note — in effect a **1200-EDO** notation that can pin any pitch to within half a cent, in any tuning. It is easy to grasp and gets excellent results on **flexible-pitch** instruments (strings, winds, voice), where a player simply bends to the marked cents. Its limit is **fixed-pitch** instruments built for a specific tuning — a refretted guitar, a metallophone, a retuned synthesizer — for which "+37¢" is not an actionable instruction. The two approaches can even be combined: the article suggests placing the cents-deviation-from-12-EDO above the notes of a Sagittal part for players who benefit from it, each format complementing the other.
 
 ## Tall Kite's color notation
 

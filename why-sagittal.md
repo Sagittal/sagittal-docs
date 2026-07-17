@@ -16,6 +16,10 @@ This is not really a new idea. The conventional sharp and flat symbols are alrea
 
 The consequence is that a score written in Sagittal can be read across many related tunings, and that any one tuning can be notated in several compatible Sagittal ways depending on how much precision you need.
 
+This is the aspiration on which the canonical *Xenharmonikôn* article closes:
+
+> "we envision a future when all microtonal musicians, whether composers, performers or theorists, whatever their instrument or musical style, will share a single harmonically-based **lingua franca of pitch**, no matter whether their tuning is justly intoned, equally tempered, or on one of the many middle-paths." — Secor & Keenan
+
 {% page-ref page="fundamentals/introduction-to-sagittal.md" %}
 
 ## What Sagittal assumes (and what it doesn't)
