@@ -8,7 +8,7 @@ Sagittal is a notation **system** that makes possible many different microtonal 
 
 ### Still unsure about using Sagittal? Get acquainted here.
 
-{% page-ref page="why-sagittal.md" %}
+{% page-ref page="fundamentals/introduction-to-sagittal.md" %}
 
 ## Guides
 
@@ -22,9 +22,9 @@ Here to understand Sagittal on a deeper level? Take the scenic route instead.
 
 ## New to microtonal notation?
 
-If you have never thought about how conventional sharps and flats actually work, start with the Fundamentals unit. It is short, and everything else builds on it.
+If you have never thought about how conventional sharps and flats actually work, start with The Chain of Fifths. It is short, and everything else builds on it.
 
-{% page-ref page="fundamentals/introduction-to-sagittal.md" %}
+{% page-ref page="fundamentals/the-chain-of-fifths.md" %}
 
 {% hint style="info" %}
 Discussion about Sagittal happens on the [Sagittal Forum](http://forum.sagittal.org). If these pages don't answer your question, you're sure to find an answer there, or someone who can help.

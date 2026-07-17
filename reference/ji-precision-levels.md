@@ -11,6 +11,16 @@ Sagittal’s [Standard JI notation](../notation-how-to-guides/just-intonation.md
 | Ultra | Herculean | 55 | 58 | 1.96 |
 | Extreme | Olympian | 153 | 233 | 0.49 |
 
+## The chart
+
+The classic chart from [sagittal.org](https://sagittal.org) shows all four levels at once — each band is one precision level, each colored zone is a symbol's capture zone across the half-apotome, with its primary comma's ratio beneath:
+
+<figure><img src="../.gitbook/assets/SagittalJI.gif" alt="Single-Sagittal Just Intonation Notations — the four precision levels with capture zones and primary commas"><figcaption>Single-Sagittal JI notations at every precision level. From sagittal.org.</figcaption></figure>
+
+{% hint style="warning" %}
+Two details of this chart predate later refinements: the **Olympian row is out of date** (it should use breves on the left rather than accents on the right), and the unison appears under its old name **1n** — today it is called **1u**. The tables on this page reflect the current conventions.
+{% endhint %}
+
 "Symbols" counts the distinct upward symbols appearing at that level in the source (cumulative — each level contains the coarser ones). The upward and downward halves each get this many, and every symbol has an [apotome complement](../concept-explanations/apotome-complements.md) for the far side of the apotome.
 
 ## The published baseline: Medium, High, Extreme

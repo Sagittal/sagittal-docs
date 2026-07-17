@@ -44,12 +44,10 @@ The Yahoo tuning, tuning-math, and MakeMicroMusic groups were where Sagittal gre
 
 Sagittal was formally introduced to the world in **2006**, in an article in Volume 18 of the historic alternative-tuning journal *Xenharmonikôn*. That article — *Sagittal: A Microtonal Notation System* — remains the canonical published reference, laying out and defending the design choices, the historical precedents and anti-inspirations, and the comparisons with other systems; it has been kept lightly updated ever since (most recently in 2025). Its closing vision is the one the whole system serves: a future in which every microtonal musician, "whatever their instrument or musical style, will share a single harmonically-based lingua franca of pitch."
 
-## The people who built it
+## The people behind Sagittal
 
-For nearly two decades Sagittal was developed by **George Secor** and **Dave Keenan**. In 2020, **Douglas Blumeyer** joined the project — first to build an online Sagittal notation calculator, then as Dave's collaborator and Sagittal's ongoing co-developer. Short professional profiles of the three follow.
+**George Secor** (1943–2020) was an American microtonal composer, theorist, and keyboard virtuoso — a player of both conventional and generalized microtonal keyboards, including the Motorola Generalized Keyboard Scalatron. He derived the generator of **Miracle temperament** in a 1975 *Xenharmonikôn* article (the interval was later named the **secor** in his honor), devised a 17-tone well temperament, and co-created Sagittal. His surname is pronounced **"SEE-kor."**
 
-{% page-ref page="george-secor.md" %}
+**Dave Keenan** is an Australian engineer and tuning theorist based in Brisbane, and the co-creator of Sagittal. In 2001 he and Paul Erlich derived Miracle temperament — the rediscovery that eventually drew George onto the tuning lists — and Dave went on to propose the name *secor* for its generator. Across an eighteen-year email collaboration with George he systematized the notation: refining the symbol sets, running the arithmetic, and building the comma-naming scheme that underlies Sagittal today. He remains the authority on the system's design rationale and history, and maintains [sagittal.org](https://sagittal.org) and the [Sagittal Forum](http://forum.sagittal.org).
 
-{% page-ref page="dave-keenan.md" %}
-
-{% page-ref page="douglas-blumeyer.md" %}
+**Douglas Blumeyer** has been a co-developer of Sagittal since 2020, when a self-described "full-blown obsession" with the system led him to write to Dave about building an online notation calculator; he became Dave's collaborator and the project's software and community lead. His Sagittal work includes the [Standard JI Notation Calculator](../tools/the-sagittal-calculator.md), [StaffCode](../tools/staffcode.md), the Sagittal-SMuFL character map, and the JavaScript codebase that generates Sagittal's data (`@sagittal/general` and `@sagittal/system`), along with much of the [Periodic Table of EDOs](../concept-explanations/the-periodic-table-of-edos.md) and EDO-notation work. With Dave he also co-authored a guide to regular temperament theory and a paper at MCM 2024, and he edits Sagittal's presence across the Xenharmonic wiki, this documentation site, and the tutorial video series, sometimes under the handle **cmloegcmluin**.

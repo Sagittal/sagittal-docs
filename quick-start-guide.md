@@ -33,6 +33,4 @@ In the unlikely event that you are unsatisfied with any of the standard notation
 
 After finding your notation, you can skip ahead to the guide for the notation software you are using.
 
-{% page-ref page="notation-software-guides/musescore.md" %}
-
-{% page-ref page="notation-software-guides/dorico.md" %}
+{% page-ref page="tools/notation-software.md" %}

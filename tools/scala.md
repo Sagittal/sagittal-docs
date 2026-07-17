@@ -5,7 +5,7 @@
 Scala includes support for Sagittal symbols.
 
 {% hint style="info" %}
-Scala is a tuning tool, not a score editor. For putting sagittals onto a staff, see the [notation software guides](../notation-software-guides/musescore.md).
+Scala is a tuning tool, not a score editor. For putting sagittals onto a staff, see the [notation software guide](notation-software.md).
 {% endhint %}
 
 <!-- GAP: only the homepage link to Scala is in hand; the specifics of its Sagittal support (which sets, how invoked) were not ingested. Expand once documented. -->

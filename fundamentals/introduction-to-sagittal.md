@@ -2,6 +2,28 @@
 
 Welcome to Sagittal, the universal system for pitch notation. This page is a brief introduction — the who, what, and why. Don't worry about memorizing anything yet; just get a feel for the shape of the thing.
 
+## Why Sagittal?
+
+Sagittal is more than a single microtonal notation. Unlike other popular microtonal notations, which are each designed for one particular tuning — such as extended just intonation, or 72-EDO — Sagittal is capable of representing almost any microtonal tuning. In this sense, Sagittal is a microtonal notation **system** which makes possible many different microtonal **notations**. (The Xenharmonic wiki's [Sagittal notation article](https://en.xen.wiki/w/Sagittal_notation) gives a compact external overview.)
+
+**If you write microtonal music in a variety of tunings and are looking for a single notation system which illuminates their shared underlying principles, then Sagittal is for you.**
+
+If you only ever plan to read or write microtonal music in a single tuning, and another notation has been developed specifically for that tuning, you may find you prefer that notation. But you just as well may find that you prefer Sagittal's notation for that tuning, so why not take a look.
+
+![Sagittarius, the archer](../.gitbook/assets/image007.jpg)
+
+The canonical *Xenharmonikôn* article closes on exactly this aspiration:
+
+> "we envision a future when all microtonal musicians, whether composers, performers or theorists, whatever their instrument or musical style, will share a single harmonically-based **lingua franca of pitch**, no matter whether their tuning is justly intoned, equally tempered, or on one of the many middle-paths." — Secor & Keenan
+
+It is worth being clear about the ground Sagittal stands on, because that ground is also its boundary. Sagittal buys into two conventions inherited from common-practice Western notation — the **five-line staff**, and the **seven nominals** A B C D E F G, arranged along a chain of fifths. On top of that foundation, its assumptions are primarily **harmonic**: its symbols are defined by the small just intonation intervals — commas — that separate a note from its neighbors in harmonic space. This is why Sagittal is so well suited to just intonation, to the equal divisions that approximate it, and to harmony-first music generally.
+
+{% hint style="info" %}
+**Sagittal is a lingua franca, not a universal replacement.** Because its assumptions are harmonic and staff-based, it is not automatically the best fit for every musical tradition — and it does not claim to be. Melody-first traditions — such as those served by the Hindustani and Karnatic **Sargam** systems — and off-staff notations like Canright's rational notation and Killick's global notation are complements, not rivals: a musician can use them alongside Sagittal, each illuminating a different aspect of the same music.
+{% endhint %}
+
+{% page-ref page="../concept-explanations/sagittal-v.-other-notation-systems.md" %}
+
 ## The name
 
 The name "Sagittal" comes from the Latin *sagitta*, "arrow" — because each Sagittal symbol looks like some kind of arrow. George Secor took it from Ivor Darreg's phrase "sagittarian notation," and you can keep the friendlier image of **Sagittarius, the archer** in mind as a mnemonic. Just remember it is the *arrow*, not the archer, that gives Sagittal its name. (The [origin story](../history/the-origin-of-sagittal.md) has the full account.)

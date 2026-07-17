@@ -1,10 +1,10 @@
 # Slow-Start Guide
 
-Have some time to dig in? These pages are organized as a learning ladder, in four units, followed by history, tools, and reference material. Here is one suggested path forward.
+Have some time to dig in? These pages are organized as a learning ladder, in four units, followed by tools and reference material. Here is one suggested path forward.
 
 ### Step 1. Basic Concepts
 
-Start with the **Basic Concepts** unit. It is short — just two pages — and worth reading once, straight through, because everything else builds on it. You will learn what sagittals are and how conventional notation is really a chain of fifths in disguise.
+Start with the two core pages of the **Basic Concepts** unit — the introduction and the chain of fifths. They are short, and worth reading once, straight through, because everything else builds on them. You will learn what sagittals are and how conventional notation is really a chain of fifths in disguise.
 
 {% page-ref page="fundamentals/introduction-to-sagittal.md" %}
 

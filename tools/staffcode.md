@@ -7,7 +7,7 @@
 StaffCode's niche is **transparent, copy-pasteable notation** in places that are otherwise text-only — the [Sagittal forum](http://forum.sagittal.org), this wiki, chat. Instead of generating an image and attaching it, you paste a short code that renders as notation *and* that anyone can peek inside to see exactly how it was written. That transparency is the whole point: it is a teaching and discussion aid.
 
 {% hint style="warning" %}
-StaffCode is **not** a replacement for notation software. In Douglas's and Dave's own words, it "does not have anywhere near the capabilities of music notation software like Dorico, Sibelius or Finale. It cannot do beams, ties or slurs that are not horizontal. It does not have aesthetic engraving rules. It cannot align parts." For a real score, reach for one of the [notation software](../notation-software-guides/musescore.md) options.
+StaffCode is **not** a replacement for notation software. In Douglas's and Dave's own words, it "does not have anywhere near the capabilities of music notation software like Dorico, Sibelius or Finale. It cannot do beams, ties or slurs that are not horizontal. It does not have aesthetic engraving rules. It cannot align parts." For a real score, reach for one of the [notation software](notation-software.md) options.
 {% endhint %}
 
 ## Spacing
