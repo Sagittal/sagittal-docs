@@ -1,4 +1,61 @@
-# Just Intonation
+# JI Notation
 
-Four different standard JI notations have been defined, in a gradation of precision levels. A higher precision level means more accuracy, but also more symbols to learn. Simply choose a precision level, gather the JI ratios in your tuning, plug them into the notation calculator, and receive your notation. To notate your tuning exactly, you may not need a high precision level.
+This is Sagittal's **preferred** just intonation notation — so preferred that it simply gets called the "JI notation," while the other one has to specify that it is the [Prime Factor](prime-factor.md) notation.
 
+What makes it preferred is a pair of guarantees the Prime Factor notation cannot make:
+
+* **one accidental per note**, and
+* **no opposing alterations** on a note.
+
+Where Prime Factor notation might stack a downward 7 and an upward 5 on the same note to reach 7/5, the JI notation finds a single symbol that covers the whole alteration. The result reads far more cleanly.
+
+## Capture zones
+
+How does one symbol stand in for a combination? Through **capture zones**.
+
+Recall that every sagittal has a [primary comma](../fundamentals/introduction-to-sagittal.md) but can flexibly represent a range of nearby values. A capture zone is that range, used in a JI context. Any comma that falls inside a symbol's capture zone but is not its primary comma is called a **secondary comma**.
+
+Picture the region from 0¢ up to about a half-apotome (roughly 57–70¢, depending on precision) sliced into consecutive zones, each holding one symbol. To notate a pitch, you find which zone its comma lands in and use that zone's symbol — no arithmetic required. Because the zone diagram attaches to every position on the chain of Pythagorean fifths, in both directions, and the up and down copies overlap, every pitch in the octave is covered (usually two or three ways).
+
+{% hint style="info" %}
+This is how the 11-limit [Spartan set](../concept-explanations/symbol-sets.md) can approximate the **13th harmonic**: the 13-comma (26:27, 65.3¢) falls inside the capture zone of the 35-comma symbol `(|\` (the left-arc-right-barb, 64.9¢). They are barely half a cent apart — inaudible except under very unusual circumstances — so one symbol serves for both, and context does the rest. If a piece genuinely needs to distinguish them, [accents](../concept-explanations/accents.md) can.
+{% endhint %}
+
+## Precision levels
+
+The JI notation comes in a ladder of **precision levels**. A higher level slices the capture zones finer, pinning pitches down more tightly at the cost of introducing more symbols.
+
+| Level | Symbol set | Notes |
+|---|---|---|
+| Medium | Spartan | ~12 symbols; fine for most music |
+| High | Athenian | more resolution, still modest |
+| Ultra | Promethean | for demanding theoretical work |
+| Extreme | Olympian | every symbol in the system today |
+
+A fifth level, finer still, is in progress.
+
+A symbol keeps the **same primary comma at every level** — `/|` is always 81/80 — so moving up a level never re-labels what you already know; it only adds finer distinctions between the existing marks.
+
+{% page-ref page="../reference/ji-precision-levels.md" %}
+
+## Choosing a level
+
+The guiding rule:
+
+> **Choose the simplest level that does not unwantedly conflate two of your pitches.**
+
+Start at Medium. Move up only if two pitches you care about would otherwise collapse onto the same symbol. Most music never needs to.
+
+{% hint style="info" %}
+The lowest level is called **Medium**, not "Low," on purpose — even it keeps every approximation within a couple of cents. As Dave puts it, the lower two levels are "sufficient for most mortals." The higher levels exist for when you really need them, e.g. theoretical work, and almost no one does.
+{% endhint %}
+
+## The JI Notation Calculator
+
+You do not have to build capture-zone diagrams by hand. A downloadable spreadsheet, the **Standard JI Notation Calculator**, does it for you: enter a pitch as a ratio or prime exponent vector and it returns your notation — in both [Evo and Revo](../concept-explanations/evo-v.-revo.md) flavors, at each precision level.
+
+{% page-ref page="../tools/the-sagittal-calculator.md" %}
+
+One caveat: the calculator handles a single pitch at a time, in isolation, so it is up to you to avoid **nominal crossing** — make sure none of your C's end up higher than your D's, and so on.
+
+A true web app that supports every Sagittal notation is the eventual goal. For now, the spreadsheet gets you exactly what you need for JI.
