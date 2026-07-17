@@ -2,7 +2,7 @@
 
 ## Is Sagittal too complicated? There are so many symbols!
 
-There are well over a hundred sagittals, but almost no one uses most of them. A mere handful — the [Spartan set](symbol-elements.md) — covers something like 90% of what people actually do, and you will not meet the rarest symbols until you go looking for extreme precision. Learn the common ones and use the rest as a dictionary: there when you need a word, ignorable when you don't.
+There are well over a hundred sagittals, but almost no one uses most of them. A mere handful — the [Spartan set](../concept-explanations/symbol-sets.md) — covers something like 90% of what people actually do, and you will not meet the rarest symbols until you go looking for extreme precision. Learn the common ones and use the rest as a dictionary: there when you need a word, ignorable when you don't.
 
 ## Do I have to invent my own notation?
 

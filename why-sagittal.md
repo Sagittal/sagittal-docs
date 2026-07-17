@@ -14,7 +14,7 @@ The power of Sagittal comes from a simple idea: its symbols have **flexible valu
 
 This is not really a new idea. The conventional sharp and flat symbols are already flexible in exactly this way — the sharp means one thing in 12-EDO, another in a meantone tuning, and something else again in strict Pythagorean tuning. Sagittal simply takes that good, almost invisible idea and extends it, with care, across the whole world of tunings.
 
-The consequence is that a score written in Sagittal can be read across many related tunings, and that any one tuning can be notated in several compatible Sagittal ways depending on how much precision you need.
+The consequence is that a score written in Sagittal can be read across many related tunings, and that any one tuning can be notated in several compatible Sagittal ways depending on how much precision you need. The Xenharmonic wiki's [Sagittal notation article](https://en.xen.wiki/w/Sagittal_notation) gives a compact external overview of the same ideas.
 
 This is the aspiration on which the canonical *Xenharmonikôn* article closes:
 

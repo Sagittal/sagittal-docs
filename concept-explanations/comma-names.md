@@ -1,6 +1,6 @@
 # Comma Names
 
-Every Sagittal symbol has a **primary comma** — the small just intonation interval it represents by default. Those commas need names, and Sagittal uses a systematic naming scheme developed by George Secor and Dave Keenan. This page explains how a comma name is built and how to read it.
+Every Sagittal symbol has a **primary comma** — the small just intonation interval it represents by default. Those commas need names, and Sagittal uses a systematic naming scheme developed by George Secor and Dave Keenan. This page explains how a comma name is built and how to read it. (For the broader notion of a comma in tuning theory, see the Xenharmonic wiki's [Comma article](https://en.xen.wiki/w/Comma).)
 
 A comma name has two parts:
 

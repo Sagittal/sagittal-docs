@@ -3,7 +3,7 @@
 This guide shows you how to notate any **equal division of the octave** in Sagittal. EDOs are, in a way, the easiest tunings to notate: an *n*-EDO has exactly *n* pitches per octave — no more, no less — so the job is always finite.
 
 {% hint style="info" %}
-**In a hurry for one specific EDO?** Many EDOs already have a full chromatic scale spelled out in Sagittal on the [Xenharmonic wiki](https://en.xen.wiki). Look up your EDO there and you can be off and running. It is still worth understanding the process below, though — it shows how each notation fits the bigger picture. For most EDOs a single standard exists; for some you have two options, a native-fifth notation or a subset notation.
+**In a hurry for one specific EDO?** Many EDOs already have a full chromatic scale spelled out in Sagittal on the Xenharmonic wiki. Look up your EDO's own page there — for example [31edo](https://en.xen.wiki/w/31edo), whose **Notation** section gives its Sagittal spelling — and you can be off and running. (See also the wiki's general [EDO article](https://en.xen.wiki/w/EDO).) It is still worth understanding the process below, though — it shows how each notation fits the bigger picture. For most EDOs a single standard exists; for some you have two options, a native-fifth notation or a subset notation.
 {% endhint %}
 
 ## The idea in one sentence

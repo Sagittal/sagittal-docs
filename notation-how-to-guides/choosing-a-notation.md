@@ -1,6 +1,6 @@
 # Choosing a Notation
 
-This is the opening page for the **Standard Notations** unit. Its job is to help you pick which kind of Sagittal notation you need before you dive into a how-to guide.
+This page helps you pick which kind of Sagittal notation you need before you dive into a how-to guide in the **Standard Notations** section.
 
 {% hint style="info" %}
 The pages in this unit do **not** strongly depend on each other. If you are only interested in one type of tuning, you can skip straight to the relevant guide and come back for the others later.

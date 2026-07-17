@@ -1,6 +1,6 @@
 # Sagittal v. other notation systems
 
-Sagittal is not the only microtonal notation, and it does not claim to be the best one for every job. What sets it apart is its **scope**: most systems are built for one tuning or one family of tunings, while Sagittal aims to notate almost any tuning *and* keep the notation of a given harmony consistent as you move between tunings. This page places Sagittal next to the systems you are most likely to have met.
+Sagittal is not the only microtonal notation, and it does not claim to be the best one for every job. What sets it apart is its **scope**: most systems are built for one tuning or one family of tunings, while Sagittal aims to notate almost any tuning *and* keep the notation of a given harmony consistent as you move between tunings. This page places Sagittal next to the systems you are most likely to have met. (For a standalone overview, see the Xenharmonic wiki's [Sagittal notation article](https://en.xen.wiki/w/Sagittal_notation).)
 
 {% hint style="info" %}
 The honest framing: if you only ever work in one tuning and a notation was designed for it, you may well prefer that notation. Sagittal's payoff is for people who move *between* tunings, or who want one set of principles underneath all of them.

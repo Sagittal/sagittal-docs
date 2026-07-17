@@ -10,16 +10,9 @@ Three plain-text cousins, three jobs: [Sagispeak](sagispeak.md) is for **saying*
 
 Every sagittal is built from [symbol elements](symbol-elements.md) — a shaft plus one or more flags — and there are four flag types. The whole trick to handwriting Sagittal is keeping those four **visually distinct** from one another, because that distinction is what carries the meaning. This is exactly where beginners struggle: rushed by hand, all four flags start to look alike.
 
-The reliable fix is to first picture each flag in a **squared-up** form, then let your pen round it off. Here are the four, drawn downward:
+The reliable fix is a **squared-up** teaching method: picture each flag first as an angular, straightened-out skeleton of its curve, then let your pen round it off toward the printed glyph — the barb staying straight, the arc bulging outward, the scroll curling inward, and the boathook flicking into a little hook. Exaggerate the convex and concave a bit as you write, the way a calligrapher would, and the four never collapse into one another.
 
-| Flag | Squared-up form | Rounds toward |
-|---|---|---|
-| barb (straight) | `|/` | a straight diagonal <!-- TODO: symbol image --> |
-| arc (convex) | `|_|` | a bulge *outward* <!-- TODO: symbol image --> |
-| scroll (concave) | `|‾i` | a hollow *inward* <!-- TODO: symbol image --> |
-| boathook (wavy) | `|--'` | a little hook <!-- TODO: symbol image --> |
-
-Draw the squared-up shape and every corner — except the one where the flag meets the tip of the shaft — will naturally soften into a slight round, and you will land close to the printed glyph. The barb stays straight; the arc pushes out; the scroll curls in; the boathook flicks. Exaggerate the convex and concave a little when you write, the way a calligrapher would — the more emphatically the arc bulges out and the scroll bites in, the less either can be mistaken for the straight barb.
+<!-- TODO: handwriting images (forum t=13 sketches) -->
 
 ## A memory aid worth stealing
 

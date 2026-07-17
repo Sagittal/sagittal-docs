@@ -45,6 +45,10 @@ What we have described is **long** Sagitype — every element spelled out, so `\
 
 Short Sagitype is handy for quick chord and lattice sketches; long Sagitype is unambiguous for everything.
 
+The full element-to-character key — every long-form element plus the short single-character forms — lives here:
+
+{% page-ref page="../reference/sagitype-key.md" %}
+
 ## Typing them directly
 
 On a system with the font installed, you do not have to settle for an approximation — you can type the real glyph. **WinCompose** turns a Sagitype-like sequence into the actual Sagittal character: the compose key, then the element characters.

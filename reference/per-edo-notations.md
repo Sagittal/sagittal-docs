@@ -7,7 +7,7 @@ Notational parameters for every equal division of the octave from 1 to 311, from
 A **negative apotome** marks the Mavila / bad-fifth EDOs (9, 16, 23, …): there the sharp would *lower* pitch, so Sagittal drops sharps and flats entirely and notates with limma-fraction sagittals instead. A **subset** EDO is notated inside a larger EDO’s scheme.
 
 <!-- DATA: sheet/09 does not populate per-EDO accidental sequences (the "Symbols" columns are empty), so the sagitype sequence for each EDO is not available here; it must come from @sagittal/system / the edoStaves scripts. Per-EDO pages (Evo/Revo scales, box symbols) are deferred. -->
-The per-EDO **accidental sequence** (which sagittals notate steps 1, 2, 3 … of each EDO) is **not** in this sheet — those columns are empty — so it is omitted below and deferred to the per-EDO pages generated from `@sagittal/system`.
+The per-EDO **accidental sequence** (which sagittals notate steps 1, 2, 3 … of each EDO) is **not** in this sheet — those columns are empty — so it is omitted below and deferred to the per-EDO pages generated from `@sagittal/system`. In the meantime, the **Notation** section of each EDO's article on the Xenharmonic wiki gives that sequence — for example [72edo](https://en.xen.wiki/w/72edo) — and the wiki's [EDO article](https://en.xen.wiki/w/EDO) collects them all.
 
 ## EDOs 1–24
 

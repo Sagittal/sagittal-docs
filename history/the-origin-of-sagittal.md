@@ -25,7 +25,7 @@ The design evolved quickly. An August 2001 "expanded saggital" used arrows with 
 One notation George pointedly did **not** draw on was Ezra Sims's 72-EDO notation. "Any similarity is purely coincidental," he wrote — he was "appalled" when he later saw it. Sagittal's resemblances to other systems come from shared principles, not borrowing.
 {% endhint %}
 
-## The superparticular principle
+## Symbols mean commas, not degrees
 
 The deeper innovation is in what the symbols *mean*. Where other systems' symbols count degrees of an equal temperament or fractions of a sharp, **Sagittal's symbols represent alterations by approximations of certain superparticular ratios** — small, harmonically meaningful commas.
 
@@ -44,10 +44,12 @@ The Yahoo tuning, tuning-math, and MakeMicroMusic groups were where Sagittal gre
 
 Sagittal was formally introduced to the world in **2006**, in an article in Volume 18 of the historic alternative-tuning journal *Xenharmonikôn*. That article — *Sagittal: A Microtonal Notation System* — remains the canonical published reference, laying out and defending the design choices, the historical precedents and anti-inspirations, and the comparisons with other systems; it has been kept lightly updated ever since (most recently in 2025). Its closing vision is the one the whole system serves: a future in which every microtonal musician, "whatever their instrument or musical style, will share a single harmonically-based lingua franca of pitch."
 
-## A new steward
+## The people who built it
 
-For nearly two decades Sagittal was refined by George and Dave. Then, in March 2020 — just as George passed away — a newcomer named **Douglas Blumeyer** arrived, two weeks into what he called a "full-blown obsession," wanting to build an online Sagittal notation calculator. Dave framed the timing as a kind of succession: he was, he wrote, becoming "the only person on the planet who knows the reasons for many of the decisions that led to the Sagittal we have now," and here was someone with the same obsession George and he had shared.
+For nearly two decades Sagittal was developed by **George Secor** and **Dave Keenan**. In 2020, **Douglas Blumeyer** joined the project — first to build an online Sagittal notation calculator, then as Dave's collaborator and Sagittal's ongoing co-developer. Short professional profiles of the three follow.
 
-That handoff is the subject of the next page.
+{% page-ref page="george-secor.md" %}
 
-{% page-ref page="the-secor-keenan-collaboration.md" %}
+{% page-ref page="dave-keenan.md" %}
+
+{% page-ref page="douglas-blumeyer.md" %}

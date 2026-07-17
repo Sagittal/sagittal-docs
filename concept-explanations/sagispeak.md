@@ -73,4 +73,6 @@ A handful of rare symbols get **per-language respellings** to avoid collisions o
 
 Fortunately, these are not commonly used symbols.
 
-<!-- TODO: consider a compact table of the eight flags → consonants, and the diacritic (accent) sounds, once the symbol images are available. -->
+The full flag-to-consonant mapping, the vowel and accent rules, and the spoken name of every symbol live here:
+
+{% page-ref page="../reference/sagispeak-key.md" %}

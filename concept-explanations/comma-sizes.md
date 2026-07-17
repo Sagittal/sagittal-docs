@@ -1,6 +1,6 @@
 # Comma Size Categories
 
-The second half of a [comma name](comma-names.md) is its **size category** — a label like *kleisma* or *medium diesis* that tells you roughly how big the comma is. This page defines the categories and the precise boundaries between them.
+The second half of a [comma name](comma-names.md) is its **size category** — a label like *kleisma* or *medium diesis* that tells you roughly how big the comma is. This page defines the categories and the precise boundaries between them. (For the general concept of a comma, see the Xenharmonic wiki's [Comma article](https://en.xen.wiki/w/Comma).)
 
 {% hint style="info" %}
 You do **not** need this page to use Sagittal notation. It is here for following Sagittal's JI discussions (how commas get assigned to symbols) and as a systematic comma-naming scheme that is useful even outside Sagittal.
