@@ -24,11 +24,25 @@ The small accent marks (diacritics) that add precision attach **only** to a sagi
 
 {% page-ref page="../concept-explanations/accents.md" %}
 
-## Never put sagittals in a key signature
+## Accidentals combine as a whole — and naturals stand alone
 
-Key signatures never contain sagittals.
+This is the single rule that governs cancelling and replacing Sagittal accidentals, and it extends the convention you already know from the conventional double flat:
 
-The reason is structural: a key signature should only ever create a **7-note MOS** scale — in the case of just intonation, a chain of just fifths. Sagittals alter individual notes by commas, which would break that requirement. So if a piece needs a sagittal, it goes on the note, not in the key signature. (A piece whose key signature would otherwise carry an unused sharp is simply given a blank key signature instead.)
+{% hint style="info" %}
+**Any combination of symbols against one note is treated as a single accidental.** It can only be cancelled or replaced *as a whole* — you never add or remove one part of it. A **natural cancels the lot**, and a new combination **replaces the lot**.
+{% endhint %}
+
+So a natural never needs to be combined with anything else — **naturals always stand alone**. And the rule reads the same in Evo and Revo: to walk a doubly-altered note back to a plain nominal you write a single natural, not a natural plus a leftover symbol.
+
+## Sagittals in key signatures
+
+Sagittals **may** be used in key signatures, and are treated exactly like conventional sharps and flats: they are **sticky** for the rest of the measure, and the whole-accidental-group rule above applies to them there too.
+
+The guiding principle is that a key signature should establish a **7-note MOS** (a moment-of-symmetry scale), following the historical precedent of the Pythagorean\[7] and meantone\[7] key signatures — not a MODMOS. Deviations from that scale within the piece are written as accidentals on the notes. For any tuning richer than meantone this genuinely requires sagittals in the signature: a **Porcupine\[7]** key signature in 22-EDO, for instance, is a chain of "quills" that can only be spelled with comma accidentals.
+
+Because one MOS can be spelled several enharmonically equivalent ways, state the MOS and the tuning in words at the top of the score — for example, *"Porcupine\[7] in 22-EDO"* — and prefer the key signature nearest the middle of the generator chain.
+
+An example of how the whole-group rule plays out in a signature: if a comma-raised D sits in the key signature and you want a plain D, you write the plain D **in full**; conversely, since the raised D is now the default, you write nothing extra to get it.
 
 ## The score legend
 
