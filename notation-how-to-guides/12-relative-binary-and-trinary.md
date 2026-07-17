@@ -10,13 +10,12 @@ The Binary notation divides the 12-EDO semitone by successive **halves**. Each s
 
 | Sagittal | Offset (¢) | EDO step of… |
 |---|---|---|
-| `/|\` | 50 | 24-EDO |
-| `|~` | 25 | 48-EDO |
-| `/|` | 12.5 | 96-EDO |
-| `|(` | 6.25 | 192-EDO |
-| `)|` | 3.125 | 384-EDO |
+| `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/&#124;\" data-size="line"> | 50 | 24-EDO |
+| `|~` <img src="../.gitbook/assets/glyphs/accSagittal23CommaUp.svg" alt="&#124;~" data-size="line"> | 25 | 48-EDO |
+| `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/&#124;" data-size="line"> | 12.5 | 96-EDO |
+| `|(` <img src="../.gitbook/assets/glyphs/accSagittal5v7KleismaUp.svg" alt="&#124;(" data-size="line"> | 6.25 | 192-EDO |
+| `)|` <img src="../.gitbook/assets/glyphs/accSagittal19SchismaUp.svg" alt=")&#124;" data-size="line"> | 3.125 | 384-EDO |
 
-<!-- TODO: symbol images -->
 <!-- above these in the ladder sit the whole and half semitone: /||\ = 100¢ (12-EDO) and /|\ = 50¢ -->
 
 

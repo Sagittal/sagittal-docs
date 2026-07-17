@@ -59,7 +59,7 @@ A legend typically states the sizes of the defining intervals, using a **D-to-F 
 * the **limma** (EF — preferred over BC, since EF is visually distinct and avoids the German convention where B means our B♭);
 * the **whole tone** (CD).
 
-For an EDO, the legend also lists the **per-step accidentals**, exactly as on the Periodic Table — for example, in 72-EDO, `/|` = 1 step, `|)` = 2 steps, `/|\` = 3 steps. <!-- TODO: symbol images -->
+For an EDO, the legend also lists the **per-step accidentals**, exactly as on the Periodic Table — for example, in 72-EDO, `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> = 1 step, `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line"> = 2 steps, `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> = 3 steps.
 
 Two typographic conventions:
 

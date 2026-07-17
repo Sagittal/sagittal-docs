@@ -15,7 +15,7 @@ This page teaches you to **read** the table. To see the table used to actually d
 
 Each EDO from 5 to 72 appears once, in a box labeled with its number. The boxes are in reading order — left to right, top to bottom — except that lines **alternate** between odd-numbered and even-numbered EDOs.
 
-Inside each box is a **minimal representation of the sagittals** you need to notate that EDO. Only the upward symbols are shown; each implies its downward mirror. For example, 72-EDO's box holds the Sagittal starter set — the same `/|`, `|)`, `/|\` you met in the introduction — because those notate its first three steps. <!-- TODO: symbol images -->
+Inside each box is a **minimal representation of the sagittals** you need to notate that EDO. Only the upward symbols are shown; each implies its downward mirror. For example, 72-EDO's box holds the Sagittal starter set — the same `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line">, `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line">, `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> you met in the introduction — because those notate its first three steps.
 
 Some boxes are empty (like 12-EDO), meaning no sagittals are needed at all.
 

@@ -8,12 +8,10 @@ The Sagittal sequences mirror the [Sagitype](../concept-explanations/sagitype.md
 
 | Symbol | Sagispeak | Sequence (after the compose key) |
 |---|---|---|
-| `/|` | pai | `/` `|` |
-| `\!` | pao | `\` `!` |
-| `|)` | tai | `|` `)` |
-| `/|\` | pakai | `/` `|` `\` |
-
-<!-- TODO: symbol images -->
+| `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/&#124;" data-size="line"> | pai | `/` `|` |
+| `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> | pao | `\` `!` |
+| `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="&#124;)" data-size="line"> | tai | `|` `)` |
+| `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/&#124;\" data-size="line"> | pakai | `/` `|` `\` |
 
 Because the sequence *is* the Sagitype, you do not have to memorize anything new — if you can type a symbol's ASCII, you can compose its glyph.
 

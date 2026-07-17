@@ -35,7 +35,7 @@ Beyond shafts and flags, a sagittal may carry **accents** (also called diacritic
 
 Here is the payoff of seeing the elements. When you combine two single-flag sagittals into a two-flag one, you can often just **combine their primary commas** to get the new symbol's comma. This is **flag arithmetic**.
 
-The cleanest example: the left barb `/|` is the 5-comma (81/80) and the right arc `|)` is the 7-comma (64/63). Put them together into the left-barb-right-arc `/|)` and you get the **35-comma** (36/35) — and sure enough, 5 × 7 = 35. The full ratios multiply out exactly: 81/80 × 64/63 = 36/35. <!-- TODO: symbol images -->
+The cleanest example: the left barb `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> is the 5-comma (81/80) and the right arc `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line"> is the 7-comma (64/63). Put them together into the left-barb-right-arc `/|)` <img src="../.gitbook/assets/glyphs/accSagittal35MediumDiesisUp.svg" alt="/|)" data-size="line"> and you get the **35-comma** (36/35) — and sure enough, 5 × 7 = 35. The full ratios multiply out exactly: 81/80 × 64/63 = 36/35.
 
 Work with the **2,3-free ratios** (the [comma-name](comma-names.md) numbers, "the ratios for humans") and the arithmetic is small enough to do in your head: left barb (5) times right arc (7) is 35.
 
@@ -43,7 +43,7 @@ Work with the **2,3-free ratios** (the [comma-name](comma-names.md) numbers, "th
 
 The most striking move is **cancellation**. Because every sagittal has a mirrored downward twin of equal and opposite value, a left barb up and a left barb down annihilate each other. So:
 
-> The 5-comma symbol `\!` (pao) plus the 11-diesis symbol `/|\` (pakai) equals the 55-comma symbol `|\` (kai) — the downward and upward **left barbs cancel**, leaving the right barb. And indeed 5 × 11 = 55. <!-- TODO: symbol images -->
+> The 5-comma symbol `\!` <img src="../.gitbook/assets/glyphs/accSagittal5CommaDown.svg" alt="\!" data-size="line"> (pao) plus the 11-diesis symbol `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> (pakai) equals the 55-comma symbol `|\` <img src="../.gitbook/assets/glyphs/accSagittal55CommaUp.svg" alt="|\" data-size="line"> (kai) — the downward and upward **left barbs cancel**, leaving the right barb. And indeed 5 × 11 = 55.
 
 Once you notice the barbs canceling, you cannot un-see it. This is exactly why Sagittal's [comma names are directed](comma-names.md) (keeping the 1s, so `1/5C` + `55C` reads as `11M`): the arithmetic of the *ratios* is made to mirror the arithmetic of the *symbols*.
 

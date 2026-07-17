@@ -12,9 +12,9 @@ It is spelled with one "g" and two "t's". If you ever forget, remember: **Sagitt
 
 Here are the three most common symbols:
 
-* `/|` — looks like the left half of an arrow. <!-- TODO: symbol image -->
-* `|)` — looks like the right half, except curved. <!-- TODO: symbol image -->
-* `/|\` — looks like an ordinary, everyday arrow. <!-- TODO: symbol image -->
+* `/|` <img src="../.gitbook/assets/glyphs/accSagittal5CommaUp.svg" alt="/|" data-size="line"> — looks like the left half of an arrow.
+* `|)` <img src="../.gitbook/assets/glyphs/accSagittal7CommaUp.svg" alt="|)" data-size="line"> — looks like the right half, except curved.
+* `/|\` <img src="../.gitbook/assets/glyphs/accSagittal11MediumDiesisUp.svg" alt="/|\" data-size="line"> — looks like an ordinary, everyday arrow.
 
 For short, Sagittal symbols can simply be called **sagittals**, with a lowercase "s". Each sagittal, like a specialized sharp or flat, indicates a slight alteration in pitch — either up or down.
 
