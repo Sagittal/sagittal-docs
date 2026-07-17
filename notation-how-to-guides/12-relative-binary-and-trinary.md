@@ -19,7 +19,7 @@ The Binary notation divides the 12-EDO semitone by successive **halves**. Each s
 <!-- above these in the ladder sit the whole and half semitone: /||\ = 100¢ (12-EDO) and /|\ = 50¢ -->
 
 
-…and it keeps halving from there, down past a fortieth of a cent.
+…and it keeps halving from there, down to about four-tenths of a cent.
 
 {% hint style="info" %}
 Binary's defining virtue: **its components never point in opposite directions.** To reach a value you only ever *add* successive halvings, never add one and subtract another. That is a real advantage over a balanced-ternary ladder, where representing a value can force two components to oppose each other — the same kind of opposing-alteration clutter the [JI notation](just-intonation.md) was built to avoid.

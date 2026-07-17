@@ -2,7 +2,7 @@
 
 Here is a fact that surprises people: **every 2,3-free ratio has two commas, not one.**
 
-Take 1/11. There is a smaller comma for it — the 11 *medium diesis*, the double barb `/|\`, at 32:33 ≈ 53.3¢ — and a larger one — the 11 *large diesis*, the double arc `(|)`, at 704:729 ≈ 60.4¢. Both are legitimately "1/11 commas." So which is *the* 1/11 comma?
+Take 11. There is a smaller comma for it — the 11 *medium diesis*, the double barb `/|\`, at 32:33 ≈ 53.3¢ — and a larger one — the 11 *large diesis*, the double arc `(|)`, at 704:729 ≈ 60.4¢. Both are legitimately "11 commas." So which is *the* 11 comma?
 
 ## They differ by an apotome
 

@@ -61,7 +61,7 @@ The coarsest level is the Athenian set. The article counts **twelve single-shaft
 | `(|)` | `(! )` | 1/11L | L | 60.412 | wai |
 | `(|\` | `(!/` | 35L | L | 64.915 | dai |
 
-Each Medium symbol covers a **capture zone** roughly one Medium step (~5.4¢) wide: any JI comma falling in that zone is notated by that symbol. The full comma-by-comma capture-zone assignments are tabulated in `sheet/08` but are left out here pending author review of that sheet’s per-step comma labels.
+Each Medium symbol covers a **capture zone** roughly one Medium step (≈5.4¢) wide: any JI comma falling in that zone is notated by that symbol. The full comma-by-comma capture-zone assignments are tabulated in `sheet/08` but are left out here pending author review of that sheet’s per-step comma labels.
 
 ## Source data notes
 

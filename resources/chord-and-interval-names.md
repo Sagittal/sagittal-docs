@@ -18,7 +18,7 @@ The **fifths-interval** is a familiar abbreviation — d5, m2, m6, m3, m7, P4, P
 
 When a sagittal is involved, its Sagispeak name prefixes the interval:
 
-* D up to F, with the F lowered by `\!` (tao... the 7-comma down), is a **tao minor third**, abbreviated **tm3**.
+* D up to F, with the F lowered by `!)` (tao... the 7-comma down), is a **tao minor third**, abbreviated **tm3**.
 * G up to F, with the F lowered by pao, is a **pao major seventh** (\M7) — the just 15:8.
 
 A nice consequence: **every Sagittal interval is also a just interval.** The name tells you both the notational spelling and the exact ratio.
@@ -69,6 +69,6 @@ Cam's resolution — which is the rule to remember — is that **the name always
 
 <!-- GAP: forum f=8 "Interval and Chord names" is only partly ingested (thread t=8, the load-bearing one, plus Dave's confirming emails). Threads t=164, t=7, t=83, t=85 remain to be folded in. -->
 
-For how these accidentals sit on the staff (and why they never go in a key signature), see:
+For how these accidentals sit on the staff (and when they do and don't belong in a key signature), see:
 
 {% page-ref page="engraving-and-score-setup.md" %}

@@ -34,7 +34,7 @@ Once you know that, the naming falls out:
 
 > **The _n_-comma is the comma that notates harmonic _n_.** So the 5-comma (`5C`) is the downward comma that lowers a Pythagorean major third to 5/4, and the **1/5-comma** (`1/5C`) is its upward mirror that notates the subharmonic.
 
-Written as ratios oriented for a chord whose root is the lowest and Pythagorean, the 5-comma is 80:81 (downward) and the 1/5-comma is 81:80 (upward).
+Written as ratios oriented for a chord whose root is the lowest and Pythagorean, the 5-comma is 80/81 (downward) and the 1/5-comma is 81/80 (upward).
 
 ## Why keep the "1"? Flag arithmetic
 

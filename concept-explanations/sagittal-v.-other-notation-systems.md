@@ -52,7 +52,7 @@ Kite Giedraitis's "color" notation labels alterations with lowercase-letter-and-
 | 5/4 | yellow `y` | `\` | pao |
 | 9/7 | red `r` | `f` | tai |
 
-The systems make different bets: color notation leans on letters and rainbow order, while a sagittal already shows direction and size in its shape and carries its own prime mnemonics. Neither is "correct" — they translate cleanly, and which reads better is a matter of what you are used to.
+The systems make different bets: color notation leans on letters and color-name mnemonics, while a sagittal already shows direction and size in its shape and carries its own prime mnemonics. Neither is "correct" — they translate cleanly, and which reads better is a matter of what you are used to.
 
 ## Melodic and proportional notations
 

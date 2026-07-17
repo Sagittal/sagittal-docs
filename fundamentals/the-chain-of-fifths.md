@@ -30,7 +30,7 @@ We start the chain with a single pitch: **D**.
 Why D, instead of A, the first letter of the alphabet? Because D is the middle letter of the seven — A B C **D** E F G — with three letters on either side. Starting there makes the chain **symmetrical**, which will matter shortly.
 
 {% hint style="info" %}
-D is what we call the **central note**, not the "tonic". The tonic depends on the key — the tonic of C major is C, and of A minor is A — but Sagittal's chain of fifths is centered on D in every case, purely for its symmetry. We describe the position of every other pitch relative to D.
+D is what we call the **central note**, not the "tonic". The tonic depends on the key — the tonic of C major is C, and of A minor is A — but Sagittal's chain of fifths is centered on D by default, purely for its symmetry. We describe the position of every other pitch relative to D.
 {% endhint %}
 
 We assign D the position 0¢ (equivalently 1200¢, an octave up), and then spiral outward by fifths in **both directions**.

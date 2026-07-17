@@ -94,7 +94,7 @@ For EDOs with a badly tuned fifth, conventional notation does such a poor job th
 
 Two special regions sit at the fringes of the Periodic Table, where the fifth is more than about 10¢ from just.
 
-* **5n EDOs** (5, 10, 15, 20, 25, 30) have such a **wide** fifth that going down five of them lands you back where you started — the diatonic semitone is **0 steps**. That makes F the same pitch as E, and B the same as C. So these EDOs use only **five nominals**, and the table tells you **not to use F or B**. (The chain of fifths F C G D A means the worst that happens is one fifth, A to F, is spelled as a sixth — there is no Sagittal notation that spells a perfect fifth as a major third.)
+* **5n EDOs** (5, 10, 15, 20, 25, 30) have such a **wide** fifth that going down five of them lands you back where you started — the diatonic semitone is **0 steps**. That makes F the same pitch as E, and B the same as C. So these EDOs use only **five nominals**, and the table tells you **not to use F or B**. (The remaining chain of fifths C G D A E means the worst that happens is one fifth, E to C, is spelled as a sixth — there is no Sagittal notation that spells a perfect fifth as a major third.)
 * **7n EDOs** have such a **narrow** fifth that the chromatic semitone is **0 steps** — C♯ is the same pitch as C — so sharps and flats are worthless. The table tells you **not to use ♯ or ♭** here; these EDOs use limma-fraction sagittals instead.
 
 This is a specific instance of a general Sagittal rule:

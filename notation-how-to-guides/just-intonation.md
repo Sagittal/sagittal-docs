@@ -27,7 +27,7 @@ The JI notation comes in a ladder of **precision levels**. A higher level slices
 
 | Level | Symbol set | Notes |
 |---|---|---|
-| Medium | Athenian | ~12 single-shaft pairs; fine for most music |
+| Medium | Athenian | 12 single-shaft pairs; fine for most music |
 | High | Promethean | more resolution, still modest |
 | Ultra | Herculean | the first accents; for demanding work |
 | Extreme | Olympian | mina accents; every symbol in use today |

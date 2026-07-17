@@ -18,7 +18,7 @@ This says: a factor of 2 maps to 72 steps, a factor of 3 to 114 steps, a factor 
 
 ## Computing a symbol's step
 
-Now take a sagittal and write its primary comma as a **prime exponent vector**. The 5-comma symbol `/|` has primary comma 80/81, which factors as:
+Now take a sagittal and write its primary comma as a **prime exponent vector**. The downward 5-comma symbol `\!` has primary comma 80/81, which factors as:
 
 $$
 [\,4\ {-}4\ 1\,\rangle
@@ -30,7 +30,7 @@ $$
 4(72) - 4(114) + 1(167) = 288 - 456 + 167 = -1
 $$
 
-One step *down* — which is exactly right: `/|` points down, so it notates the first (downward) step of 72-EDO. Run the same comma against **63-EDO**'s mapping `⟨63 100 146]` and you get −2 steps instead, because 63 distorts harmonic space differently. Same comma, different EDO, different step count. That is why one symbol can serve EDOs of very different sizes.
+One step *down* — which is exactly right: `\!` points down, so it notates the first (downward) step of 72-EDO. Run the same comma against **63-EDO**'s mapping `⟨63 100 146]` and you get −2 steps instead, because 63 distorts harmonic space differently. Same comma, different EDO, different step count. That is why one symbol can serve EDOs of very different sizes.
 
 ## Symbol swaps are revealing
 

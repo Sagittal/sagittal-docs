@@ -14,7 +14,7 @@ Each set contains all the ones before it and adds more resolution. Their names c
 |---|---|---|---|
 | **Spartan** | austere | the 8 core single-shaft pairs | 13-EDA |
 | **Athenian** | luxurious | up to 13 pairs | 21-EDA |
-| **Promethean** | adventurous | ~20 more symbols | 47-EDA |
+| **Promethean** | adventurous | 20 more symbols | 47-EDA |
 | **Herculean** | almost godlike | the first accents | finer still |
 | **Olympian** | godlike | mina accents | 233 minas / apotome |
 | **Magrathean** | ridiculously precise | tina accents | 809 tinas / apotome |
