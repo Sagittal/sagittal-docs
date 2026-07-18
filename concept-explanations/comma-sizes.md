@@ -67,4 +67,4 @@ When two commas fall in the same category with the same 2,3-free ratio, they are
 
 {% page-ref page="comma-names.md" %}
 
-<!-- TODO: insert the "size category bounds mirrored about the half apotome" diagram (forum t=505) once available. -->
+<figure><img src="../.gitbook/assets/size-category-bounds-half-apotome.jpg" alt="Size category bounds in the half apotome — Douglas's diagram of the comma size categories mirrored about the half-apotome"><figcaption>The size categories, mirrored about the half-apotome. Diagram by Douglas, from the Sagittal forum.</figcaption></figure>
