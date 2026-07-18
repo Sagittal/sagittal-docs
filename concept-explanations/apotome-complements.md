@@ -34,7 +34,7 @@ This mirror is also how [comma size categories](comma-sizes.md) resolve the "two
 
 ## Memorizing them in Revo
 
-In [Evo](evo-v.-revo.md), you rarely think about complements — the sharp is right there on the page. In **Revo**, though, you need to know each symbol's complement cold, because there is **no simple rule** relating a symbol's flags to its complement's flags. A double left barb becomes a double scroll; a right arc stays a right arc; a left barb becomes a right barb — no pattern you can read off the shapes. Revo users simply memorize the equivalences (it *is* possible to explain precisely why each complement is what it is, but that waits for the advanced material).
+In [Evo](evo-v.-revo.md), you rarely think about complements — the sharp is right there on the page. In **Revo**, though, you need to know each symbol's complement cold, because there is **no simple rule** relating a symbol's flags to its complement's flags. A double left barb becomes a double scroll; a right arc stays a right arc; a left barb becomes a right barb — no pattern you can read off the shapes. Revo users simply memorize the equivalences (it *is* possible to explain precisely why each complement is what it is, but that waits for the advanced material). Every symbol's apotome complement across one apotome is tabulated in [Evo ↔ Revo Correspondence](../reference/evo-revo-correspondence.md).
 
 <!-- TODO: symbol image — the article's complement charts (Fig 4 Spartan set, p.7; Fig 13 full 31-symbol set, p.24) render from the font during the glyph pass. The generated symbol dictionary already lists each symbol's complement from sheet/07. -->
 

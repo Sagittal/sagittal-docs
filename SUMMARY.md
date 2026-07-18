@@ -51,6 +51,9 @@
 
 * [Size-Category Bounds](reference/size-category-bounds.md)
 * [Primary Commas Table](reference/primary-commas-table.md)
+* [Element Arithmetic Table](reference/element-arithmetic-table.md)
+* [Evo ↔ Revo Correspondence](reference/evo-revo-correspondence.md)
+* [Pythagorean Tables](reference/pythagorean-tables.md)
 * [Prime Factor Notation Table](reference/prime-factor-notation-table.md)
 * [JI Precision Levels](reference/ji-precision-levels.md)
 * [Per-EDO Notations](reference/per-edo-notations.md)

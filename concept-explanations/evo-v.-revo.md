@@ -23,7 +23,7 @@ The *Xenharmonikôn* article ties the two flavors to two kinds of reader. Becaus
 
 ## Revo is a substitution code for Evo
 
-Line the two flavors up, natural to sharp, and for most of the range they are **identical** — the same single-shaft sagittals. They part ways only at the top, where Evo writes a conventional sharp and Revo writes a multi-shaft symbol. So a Revo multi-shaft symbol is really just a **substitution code** for an Evo combination of a sharp with a single-shaft sagittal.
+Line the two flavors up, natural to sharp, and for most of the range they are **identical** — the same single-shaft sagittals. They part ways only at the top, where Evo writes a conventional sharp and Revo writes a multi-shaft symbol. So a Revo multi-shaft symbol is really just a **substitution code** for an Evo combination of a sharp with a single-shaft sagittal. The full symbol-by-symbol correspondence across one apotome — both flavors, with cents and apotome complements — is tabulated in [Evo ↔ Revo Correspondence](../reference/evo-revo-correspondence.md).
 
 Adding a sharp, in Revo, means adding two shafts. Its own sharp — the "double-shaft double barb" `/||\` — is worth memorizing; you will see it constantly. It helps to picture the four strokes of the conventional sharp morphing into the four strokes of the Sagittal one.
 

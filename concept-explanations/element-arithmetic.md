@@ -11,7 +11,7 @@ Every element — each flag, each accent — has a primary comma, and every comm
 Because the vectors add, the arithmetic reads naturally in the [directed comma names](comma-names.md): the whole symbol's name falls out of its parts, opposite flags cancel, and a left-side element plus a right-side element land on their product.
 
 {% hint style="info" %}
-Worked in the abstract: give the boathook `~|` its primary comma (the 17-kleisma) and combine it with another element's comma by adding the two prime exponent vectors; the sum is the compound symbol's comma. The full grid of these sums lives in the "Element Arithmetic" data of the reference layer.
+Worked in the abstract: give the boathook `~|` its primary comma (the 17-kleisma) and combine it with another element's comma by adding the two prime exponent vectors; the sum is the compound symbol's comma. The full table lives here: [Element Arithmetic Table](../reference/element-arithmetic-table.md).
 {% endhint %}
 
 ## Tempered values

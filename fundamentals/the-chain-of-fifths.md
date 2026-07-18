@@ -78,6 +78,6 @@ This 12-note scale is the **Pythagorean chromatic scale**. Its chain runs from E
 
 We now have everything we need for the moment: the seven nominals, the sharp and flat, the diatonic and chromatic semitones, and the whole tone — all derived from a chain of pure fifths, exactly as conventional notation was originally designed to model Pythagorean pitches.
 
-This Pythagorean chain of fifths is one of the design choices that lets Sagittal adapt so easily between tunings — from JI, to EDOs, and anything in between or beyond. In the notation guides you will chain fifths the same way, then fill the remaining gaps with sagittals.
+This Pythagorean chain of fifths is one of the design choices that lets Sagittal adapt so easily between tunings — from JI, to EDOs, and anything in between or beyond. In the notation guides you will chain fifths the same way, then fill the remaining gaps with sagittals. The full tables — fifth-chain monzos and cents, nominal values, and apotome topology — are in [Pythagorean Tables](../reference/pythagorean-tables.md).
 
 {% page-ref page="../notation-how-to-guides/choosing-a-notation.md" %}
