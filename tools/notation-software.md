@@ -37,6 +37,7 @@ MuseScore draws sagittals with Bravura and exports PNG images (handy for the for
 ### Strengths
 
 * **Large EDOs.** Dorico handles high-numbered EDOs comfortably, and because rank-2 temperaments and JI can be notated as **subsets of a large EDO**, it copes with those too.
+* **Microtonal playback.** Since Dorico Pro 2 (2018), microtonal accidentals actually *play back* at their altered pitches — news Daniel Spreadbury shared with Dave directly, and a first among the major editors at the time.
 * **Correct default placement.** Dorico's default positioning of sagittals turns out to be *correct as designed* — you should not need to drag symbols around to center them properly. (Early users who manually nudged every symbol were fixing a problem that was not there.)
 
 ### Limits to know about
