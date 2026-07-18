@@ -30,6 +30,13 @@ For the [12-Relative / Trojan notation](../notation-how-to-guides/12-relative-tr
 
 MuseScore draws sagittals with Bravura and exports PNG images (handy for the forum or social media). It also has a plugin API — a stripped-down JavaScript with MuseScore-specific additions — so notation can be generated programmatically, though for small jobs manual entry is faster.
 
+### Plugins that retune sagittals
+
+Community plugins go further than the built-in palette, actually *retuning* notes from their Sagittal accidentals:
+
+* [**musescore-xen-tuner**](https://github.com/euwbah/musescore-xen-tuner) (euwbah) — broad notation-system support that explicitly includes Sagittal, with automated tuning and placement of multiple accidentals.
+* [**XenKit**](https://github.com/AzureDevs/XenKit) (MuseScore 4) — declare the tuning in a system text (say, "41edo") and its *tune* function adjusts every note; each Sagittal accidental carries a built-in JI-relative tuning that the declared system then maps.
+
 ## Dorico
 
 [Dorico](https://www.steinberg.net/dorico/) — Steinberg's professional score editor — has **native SMuFL** support, which makes it a strong home for Sagittal. Since Dorico ships with Bravura, the full Sagittal range is available, and Dave and George were consulted on the product before its release.
